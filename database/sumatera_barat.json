@@ -1,0 +1,6795 @@
+{
+  "name": "Sumatera Barat",
+  "kotas": [
+    {
+      "name": "Kabupaten Kepulauan Mentawai",
+      "kecamatans": [
+        {
+          "name": "Pagai Selatan",
+          "kelurahans": [
+            {
+              "name": "Bulasat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sinaka",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Makalo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malakopa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sikakap",
+          "kelurahans": [
+            {
+              "name": "Taikako",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikakap",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Matobe",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pagai Utara",
+          "kelurahans": [
+            {
+              "name": "Saumanganya",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silabu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Betumonga",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sipora Selatan",
+          "kelurahans": [
+            {
+              "name": "Bosua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nemnemleleu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Beriulou",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sioban",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saureinu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Matobe",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sipora Utara",
+          "kelurahans": [
+            {
+              "name": "Betumonga",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Goisooinan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Pamewa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sipora Jaya",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sido Makmur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tuapejat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Siberut Selatan",
+          "kelurahans": [
+            {
+              "name": "Madobag",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muara Siberut",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Maileppet",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muntei",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Matotonan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Seberut Barat Daya",
+          "kelurahans": [
+            {
+              "name": "Pasakiat Teileleu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Katurei",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sagulubbeg",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Siberut Tengah",
+          "kelurahans": [
+            {
+              "name": "Saliguma",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saibi Samukop",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cimpungan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Siberut Utara",
+          "kelurahans": [
+            {
+              "name": "Sirilogui",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muara Sikabaluan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mongan Poula",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sotboyak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bojakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malancan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Siberut Barat",
+          "kelurahans": [
+            {
+              "name": "Simatalu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simalegi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sigapokna",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Pesisir Selatan",
+      "kecamatans": [
+        {
+          "name": "Silaut",
+          "kelurahans": [
+            {
+              "name": "Silaut",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sambungo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Hitam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Bunta",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Seribu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Binjai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Binjai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sarik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sirah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lunang",
+          "kelurahans": [
+            {
+              "name": "Lunang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sindang Lunang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Satu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pondok Parian Lunang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Dua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunang Tiga",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Basa Ampek Balai Tapan",
+          "kelurahans": [
+            {
+              "name": "Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Arah Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampang Tulak Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Anau Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Dusun Baru Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Pondok Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Betung Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Riak Danau Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Buai Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ranah Ampek Hulu Tapan",
+          "kelurahans": [
+            {
+              "name": "Kubu Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Koto Pulai Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Binjai Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Gambir Sako Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Gunung Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Tengah Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Pinang Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tebing Tinggi Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Balarik Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Purut Tapan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pancung Soal",
+          "kelurahans": [
+            {
+              "name": "Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Sakai Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Inderapura Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Sepakat Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Inderapura Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kudo-Kudo Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Lama Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tluk Amplu Indrapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Inderapura Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Sungai Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Airpura",
+          "kelurahans": [
+            {
+              "name": "Inderapura Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Inderapura Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pulau Rajo Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tluk Kualo Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Palokan Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah Bakali Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Betung Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Damar Lapan Batang Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muara Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lalang Panjang Inderapura",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Linggo Sari Baganti",
+          "kelurahans": [
+            {
+              "name": "Aie Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Punggasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Punggasan Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Xi Punggasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lagan Mudik Punggasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lagan Hilir Punggasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Punggasan Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muara Gadang Air Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Haji Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Bukit Air Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sirah Air Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rantau Simalenang Air Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Haji Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Lama Muara Air Haji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Haji Tenggara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muara Kandis Punggasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ranah Pesisir",
+          "kelurahans": [
+            {
+              "name": "Sungai Tunu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Palangai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Tunu Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Tunu Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nyiur Melambai Pelangai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pelangai Kaciak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pelangai Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Viii Pelangai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasia Pelangai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Liku Pelangai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lengayang",
+          "kelurahans": [
+            {
+              "name": "Lakitan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kambang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lakitan Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lakitan Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lakitan Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lakitan Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kambang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kambang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kambang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sutera",
+          "kelurahans": [
+            {
+              "name": "Amping Parak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Amping Parak Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aur Duri Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rawang Gunung Malelo Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Nan Tigo Selatan Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Nan Tigo Utara Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gantiang Mudiak Selatan Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gantiang Mudiak Utara Surantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lansano Taratak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Taratak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Batang Kapas",
+          "kelurahans": [
+            {
+              "name": "Iv Koto Hilie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Iv Koto Mudiek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taluk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Nan Tigo Iv Koto Hilie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Nan Duo Iv Koto Hilie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Nyalo Iv Koto Mudiek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tuik Iv Koto Mudiek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Tempatih Iv Koto Mudiek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taluk Tigo Sakato",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Iv Jurai",
+          "kelurahans": [
+            {
+              "name": "Salido",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Painan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tambang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungo Pasang Salido",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sago Salido",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Painan Selatan Painan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Painan Timur Painan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Kaciak Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sariak Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Gayo Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Bungkuak Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampang Tareh Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampuan Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Sinayan Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Tangah Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Kunik Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Gadang Lumpo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Rawang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salido Sari Bulan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Bayang",
+          "kelurahans": [
+            {
+              "name": "Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talaok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Barapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Api-Api Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Durian Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Asam Kamba Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sawah Laweh Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapeh Panji Jaya Talaok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aur Begalung Talaok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapelgam Koto Barapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapujan Koto Barapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru Koto Barapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Koto Barapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Panjang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Panjang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Panjang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Iv  Nagari Bayang Utara",
+          "kelurahans": [
+            {
+              "name": "Puluik Puluik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Ranah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Aie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pancuang Taba",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Puluik Puluik Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Gadang Pancung Taba",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Xi Tarusan",
+          "kelurahans": [
+            {
+              "name": "Kapuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampang Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nanggalo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Hampar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Duku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Barung Barung Balantai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Pinang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siguntur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Sungai Lundang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapuh Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mandeh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Barung Barung Balantai Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jinang Kampung Pansur Ampang Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pulau Karam Ampang Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cerocok Anau Ampang Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Nyalo Mudiak Aie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Setara Nanggalo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Hampar Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Duku Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Barung-Barung Balantai Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siguntur Tua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Baru Korong Nan Ampek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Barung-Barung Balantai Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Solok",
+      "kecamatans": [
+        {
+          "name": "Pantai Cermin",
+          "kelurahans": [
+            {
+              "name": "Surian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lolo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lembah Gumanti",
+          "kelurahans": [
+            {
+              "name": "Alahan Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Nanam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salimpek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aie Dingin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Hiliran Gumanti",
+          "kelurahans": [
+            {
+              "name": "Sungai Abu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sariak Alahan Tigo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Babungo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Payung Sekaki",
+          "kelurahans": [
+            {
+              "name": "Sirukam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Supayang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aia Luo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tigo Lurah",
+          "kelurahans": [
+            {
+              "name": "Rangkiang Luluih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Bajanjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simanau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Balik Sumiso",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Garabak Data",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lembang Jaya",
+          "kelurahans": [
+            {
+              "name": "Koto Anau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Banyak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Lunggo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salayo Tanang Bukik Sileh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Bajanjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Danau Kembar",
+          "kelurahans": [
+            {
+              "name": "Kampuang Batu Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Tanjuang Nan Iv",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Gunung Talang",
+          "kelurahans": [
+            {
+              "name": "Cupak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Janiah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Gadang Guguak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Gaek Guguak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jawi-Jawi Guguak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Barus",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aia Batumbuak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Bukit Sundi",
+          "kelurahans": [
+            {
+              "name": "Muaro Paneh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kinari",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parambahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Dilam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Tandang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ix Koto Sungai Lasi",
+          "kelurahans": [
+            {
+              "name": "Pianggu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taruang-Taruang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siaro-Aro",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Indudua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguak Sarai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Durian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Bais",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Jambua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kubung",
+          "kelurahans": [
+            {
+              "name": "Gauang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panyakalan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saok Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Bingkuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gantuang Ciri",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Hilalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Selayo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "X Koto Diatas",
+          "kelurahans": [
+            {
+              "name": "Katialo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Balik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Paninjauan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Labuah Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sulik Aia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasilihan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Kanduang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kuncia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siberambang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "X Koto Singkarak",
+          "kelurahans": [
+            {
+              "name": "Kacang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tikalak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Singkarak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sumani",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saniang Baka",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Sani",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Alai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aripan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Junjung Sirih",
+          "kelurahans": [
+            {
+              "name": "Muaro Pingai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Paninggahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Sijunjung",
+      "kecamatans": [
+        {
+          "name": "Kamang Baru",
+          "kelurahans": [
+            {
+              "name": "Sungai Lansek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Takung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kunangan Parit Rantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kamang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Amo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Batuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siaur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Tarantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Maloro",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Kaliang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Tarok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tanjung Gadang",
+          "kelurahans": [
+            {
+              "name": "Langki",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sibakur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pulasan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Lolo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Timbulun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sinyamu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Baru Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sijunjung",
+          "kelurahans": [
+            {
+              "name": "Muaro",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kandang Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pematang Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sijunjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aia Angek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Solok Ambah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Paruh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Silokek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Tarok",
+          "kelurahans": [
+            {
+              "name": "Buluh Kasok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Tarok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lalan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silongo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Latang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Iv Nagari",
+          "kelurahans": [
+            {
+              "name": "Mundam Sakti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Bodi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Palangki",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tuo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kupitan",
+          "kelurahans": [
+            {
+              "name": "Batu Manjulua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Sibusuak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pamuatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Tujuh",
+          "kelurahans": [
+            {
+              "name": "Limo Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Palaluar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Bual",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sumpur Kudus",
+          "kelurahans": [
+            {
+              "name": "Kumanis",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Bonai Aur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sisawah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tamparungo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sumpur Kudus",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mengganti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sepakat Silantai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Unggan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Bonai Aur Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Labuah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sumpur Kudus Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Tanah Datar",
+      "kecamatans": [
+        {
+          "name": "Sepuluh Koto",
+          "kelurahans": [
+            {
+              "name": "Tambangan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jaho",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Paninjauan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panyalaian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aie Angek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pandai Sikek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Singgalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Batipuh",
+          "kelurahans": [
+            {
+              "name": "Tanjung Barulak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungo Tanjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pitalah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Rajo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batipuh Baruah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batipuah Ateh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sabu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Andaleh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Batipuh Selatan",
+          "kelurahans": [
+            {
+              "name": "Guguak Malalo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh Malalo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sumpur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Taba",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pariangan",
+          "kelurahans": [
+            {
+              "name": "Batu Basa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tabek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sawah Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simabur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pariangan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Jambu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Rambatan",
+          "kelurahans": [
+            {
+              "name": "Simawang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balimbiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Iii Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Magek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rambatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lima Kaum",
+          "kelurahans": [
+            {
+              "name": "Cubadak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parambahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Labuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lima Kaum",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Baringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tanjung Emas",
+          "kelurahans": [
+            {
+              "name": "Pagaruyung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saruaso",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Barulak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Ganting",
+          "kelurahans": [
+            {
+              "name": "Padang Ganting",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Atar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lintau Buo",
+          "kelurahans": [
+            {
+              "name": "Taluak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Jangko",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pangian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Buo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lintau Buo Utara",
+          "kelurahans": [
+            {
+              "name": "Tepi Selo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuak Jantan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Bulek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Bonai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungayang",
+          "kelurahans": [
+            {
+              "name": "Minangkabau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Andaleh Baruh Bukik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungayang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Patai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Tarab",
+          "kelurahans": [
+            {
+              "name": "Talang Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpuruik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Tarab",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tuo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasie Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kumango",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rao Rao",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Salimpaung",
+          "kelurahans": [
+            {
+              "name": "Tabek Patah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lawang Mandahiliang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salimpaung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Supayang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Situmbuk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sumaniak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tanjung Baru",
+          "kelurahans": [
+            {
+              "name": "Tanjuang Alam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Barulak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Padang Pariaman",
+      "kecamatans": [
+        {
+          "name": "Batang Anai",
+          "kelurahans": [
+            {
+              "name": "Katapiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kasang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Buluh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Buayan Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Buluh Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Buluh Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Buluh Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Buluh Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Alung",
+          "kelurahans": [
+            {
+              "name": "Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aie Tajun Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikabu Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasie Laweh Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Punggung Kasiak Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balah Hilia Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Abang Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Singguling Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salibutan Lubuk Alung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sintuk Toboh Gadang",
+          "kelurahans": [
+            {
+              "name": "Toboh Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sintuk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Toboh Gadang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Toboh Gadang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Toboh Gadang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ulakan Tapakis",
+          "kelurahans": [
+            {
+              "name": "Tapakis",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Seulayat Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Gimba Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Manggopoh Palak Gadang Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sandi Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampuang Galapuang Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Toboh Ulakan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Nan Sabaris",
+          "kelurahans": [
+            {
+              "name": "Sunua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Bintungan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauah Kamba",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapalo Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kurai Taji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sunur Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sunur Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Kandang Pulau Air Padang Bintungan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kurai Taji Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "2 X 11 Enam Lingkung",
+          "kelurahans": [
+            {
+              "name": "Lubuk Pandan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sicincin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Asam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Enam Lingkung",
+          "kelurahans": [
+            {
+              "name": "Koto Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gadua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Toboh Ketek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakandangan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parik Malintang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "2 X 11 Kayu Tanam",
+          "kelurahans": [
+            {
+              "name": "Kapalo Hilalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kayu Tanam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Anduring",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Vii Koto Sungai Sariak",
+          "kelurahans": [
+            {
+              "name": "Balah Aia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lareh Nan Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lurah Ampalu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balah Aie Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balah Aie Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lareh Nan Panjang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lareh Nan Panjang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limpato Sungai Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bisati Sungai Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lareh Nan Panjang Sungai Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ambuang Kapua Sungai Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Patamuan",
+          "kelurahans": [
+            {
+              "name": "Sungai Durian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tandikat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tandikat Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampuang Tanjuang Koto Mambang Sungai Durian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tandikat Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tandikat Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Sago",
+          "kelurahans": [
+            {
+              "name": "Koto Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Kalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Dalam Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Dalam Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Kalang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "V Koto Kp Dalam",
+          "kelurahans": [
+            {
+              "name": "Campago",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikucur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Campago Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Campago Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikucur Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikucur Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikucur Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikucur Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "V Koto Timur",
+          "kelurahans": [
+            {
+              "name": "Limau Puruik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kudu Gantiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Padang Alai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kudu Gantiang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Limau",
+          "kelurahans": [
+            {
+              "name": "Pilubang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kuranji Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tinggi Kuranji Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguak Kuranji Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Batang Gasan",
+          "kelurahans": [
+            {
+              "name": "Gasan Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malai V Suku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malai V Suku Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Geringging",
+          "kelurahans": [
+            {
+              "name": "Kuranji Hulu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malai Iii Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Gadang Kuranji Hulu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sirah Kuranji Hulu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Iv Koto Aur Malintang",
+          "kelurahans": [
+            {
+              "name": "Iii Koto Aur Malintang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Iii Koto Aur Malintang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Iii Koto Aur Malintang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Iii Koto Aur Malintang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Baik Malai Iii Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Agam",
+      "kecamatans": [
+        {
+          "name": "Tanjung Mutiara",
+          "kelurahans": [
+            {
+              "name": "Tiku Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tiku Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tiku Limo Jorong",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Basung",
+          "kelurahans": [
+            {
+              "name": "Manggopoh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Garagahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampuang Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Pinang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Basung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ampek Nagari",
+          "kelurahans": [
+            {
+              "name": "Bawan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sitanang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Kambing",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sitalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tanjung Raya",
+          "kelurahans": [
+            {
+              "name": "Tanjung Sani",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Batang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Maninjau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bayua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Duo Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Paninjauan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Kaciak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Gadang Anam Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Malintang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Matur",
+          "kelurahans": [
+            {
+              "name": "Matua Mudiak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parik Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panta Pauah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Matua Hilia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Balai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lawang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Iv Koto",
+          "kelurahans": [
+            {
+              "name": "Koto Tuo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balingka",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Landia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sianok Anam Suku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguak Tabek Sarojo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Malalak",
+          "kelurahans": [
+            {
+              "name": "Malalak Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malalak Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malalak Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malalak Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Banuhampu",
+          "kelurahans": [
+            {
+              "name": "Pakan Sinayan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Tanang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Lua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cingkariang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ladang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taluak Ampek Suku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Putiah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Pua",
+          "kelurahans": [
+            {
+              "name": "Batu Palano",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batagak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sariak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Pua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ampek Angkek",
+          "kelurahans": [
+            {
+              "name": "Batu Taba",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Gurah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampang Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Biaro Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lambah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panampuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Canduang",
+          "kelurahans": [
+            {
+              "name": "Bukik Batabuah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lasi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Canduang Koto Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Baso",
+          "kelurahans": [
+            {
+              "name": "Koto Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Tarok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simarasok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tabek Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tilatang Kamang",
+          "kelurahans": [
+            {
+              "name": "Gadut",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kamang Magek",
+          "kelurahans": [
+            {
+              "name": "Magek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kamang Hilia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kamang Mudiak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Palembayan",
+          "kelurahans": [
+            {
+              "name": "Baringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Puar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sipinang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampek Koto Palembayan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Koto Silungkang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salareh Aia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Palupuh",
+          "kelurahans": [
+            {
+              "name": "Koto Rantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasia Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pagadih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nan Tujuah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Lima Puluh Kota",
+      "kecamatans": [
+        {
+          "name": "Payakumbuh",
+          "kelurahans": [
+            {
+              "name": "Sungai Baringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru Simalanggang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simalanggang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tangah Simalanggang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taeh Baruah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Piobang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taeh Bukik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Akabiluru",
+          "kelurahans": [
+            {
+              "name": "Koto Tangah Batu Hampa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Hampa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sariak Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Balantiak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Suayan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauah Sangik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Luak",
+          "kelurahans": [
+            {
+              "name": "Mungo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Andaleh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Kamuyang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Aro Sikabu-Kabu Pd. Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lareh Sago Halaban",
+          "kelurahans": [
+            {
+              "name": "Halaban",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampalu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sitanang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Payuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Labuah Gunuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Sikumpa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Situjuah Limo Nagari",
+          "kelurahans": [
+            {
+              "name": "Situjuah Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Situjuah Banda Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Situjuah Batua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tungka",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Situjuah Ladang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Harau",
+          "kelurahans": [
+            {
+              "name": "Taram",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Limbuku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pilubang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Balang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tuo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuak Batingkok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sarilamak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tarantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Solok Bio-Bio",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Harau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Guguak",
+          "kelurahans": [
+            {
+              "name": "Kubang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Sugiran",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguak Viii Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Vii Koto Talago",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Mungka",
+          "kelurahans": [
+            {
+              "name": "Jopang Manganti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mungka",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Maua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Kapuak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Antuan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Suliki",
+          "kelurahans": [
+            {
+              "name": "Kurai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Suliki",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limbanang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Rimbang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Bungo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Andiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Bukik Barisan",
+          "kelurahans": [
+            {
+              "name": "Koto Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Banja Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Maek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Naniang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Baruah Gunuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Gunuang Omeh",
+          "kelurahans": [
+            {
+              "name": "Pandam Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang Anau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kapur Ix",
+          "kelurahans": [
+            {
+              "name": "Koto Lamo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuak Alai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Paiti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Bangun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sialang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Galugua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pangkalan Koto Baru",
+          "kelurahans": [
+            {
+              "name": "Koto Alam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Manggilang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pangkalan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunuang Malintang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Balik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Pauah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Pasaman",
+      "kecamatans": [
+        {
+          "name": "Bonjol",
+          "kelurahans": [
+            {
+              "name": "Koto Kaciak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limo Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ganggo Hilia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ganggo Mudiak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tigo Nagari",
+          "kelurahans": [
+            {
+              "name": "Binjai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ladang Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Malampah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Simpang Alahan Mati",
+          "kelurahans": [
+            {
+              "name": "Alahan Mati",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Sikaping",
+          "kelurahans": [
+            {
+              "name": "Tanjung Beringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jambak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aia Manggih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sundata",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Dua Koto",
+          "kelurahans": [
+            {
+              "name": "Cubadak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Tonang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Panti",
+          "kelurahans": [
+            {
+              "name": "Panti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panti Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Panti Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Gelugur",
+          "kelurahans": [
+            {
+              "name": "Padang Galugua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Persiapan Bahagia Padang Galugua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Persiapan Sitombol Padang Galugua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Persiapan Sontang Cubadak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Rao",
+          "kelurahans": [
+            {
+              "name": "Taruang-Taruang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Mantinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Mapat Tunggul",
+          "kelurahans": [
+            {
+              "name": "Lubuak Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pintu Padang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Tais",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Mapat Tunggul Selatan",
+          "kelurahans": [
+            {
+              "name": "Muaro Sei Lolo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silayang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Rao Selatan",
+          "kelurahans": [
+            {
+              "name": "Lansek Kadok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Betung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuak Layang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Rao Utara",
+          "kelurahans": [
+            {
+              "name": "Koto Nopan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Rajo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Languang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Solok Selatan",
+      "kecamatans": [
+        {
+          "name": "Sangir",
+          "kelurahans": [
+            {
+              "name": "Lubuk Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Gadang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Gadang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Gadang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sangir Jujuan",
+          "kelurahans": [
+            {
+              "name": "Lubuk Malako",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Air Dingin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bidar Alam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Limau Sundai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Gantiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sangir Balai Janggo",
+          "kelurahans": [
+            {
+              "name": "Sungai Kunyit",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talunan Maju",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talao Sungai Kunyit",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Kunyit Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sangir Batang Hari",
+          "kelurahans": [
+            {
+              "name": "Abai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ranah Pantai Cermin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Dusun Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sitapus",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Ulang Aling",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Ulang Aling Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Ulang Aling Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Pagu",
+          "kelurahans": [
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Muara Labuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pulakek Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sako Pasia Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bomas",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sako Selatan Pasia Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sako Utara Pasia Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Talang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Talang Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Talang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pauah Duo",
+          "kelurahans": [
+            {
+              "name": "Alam Pauh Duo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapau Alam Pauh Duo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Luak Kapau Alam Pauh Duo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauh Duo Nan Batigo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Parik Gadang Diateh",
+          "kelurahans": [
+            {
+              "name": "Pakan Rabaa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakan Rabaa Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakan Rabaa Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakan Rabaa Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Dharmasraya",
+      "kecamatans": [
+        {
+          "name": "Sungai Rumbai",
+          "kelurahans": [
+            {
+              "name": "Sungai Rumbai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kurnia Koto Salak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Rumbai Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kurnia Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Besar",
+          "kelurahans": [
+            {
+              "name": "Koto Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bonjol",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Abai Siat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Besar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Ranah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Asam Jujuhan",
+          "kelurahans": [
+            {
+              "name": "Lubuk Besar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Alahan Nan Tigo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Limau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sinamar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Alam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Baru",
+          "kelurahans": [
+            {
+              "name": "Ampang Kuranji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sialang Gaung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Padang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Salak",
+          "kelurahans": [
+            {
+              "name": "Padukuan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pulau Mainan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simalidu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Salak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampalu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tiumang",
+          "kelurahans": [
+            {
+              "name": "Koto Beringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sipangkur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Langkok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tiumang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Laweh",
+          "kelurahans": [
+            {
+              "name": "Batu Rijal",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Sopan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sopan Jaya",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sitiung",
+          "kelurahans": [
+            {
+              "name": "Sitiung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Siguntur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Medan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Duo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Timpeh",
+          "kelurahans": [
+            {
+              "name": "Panyubarangan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tabek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Timpeh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ranah Palabi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pulau Punjung",
+          "kelurahans": [
+            {
+              "name": "Iv Koto Pulau Punjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Dareh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tebing Tinggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Kambut",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Selasih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikabau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ix Koto",
+          "kelurahans": [
+            {
+              "name": "Banai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Karak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silago",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Nan Iv Dibawuah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Pasaman Barat",
+      "kecamatans": [
+        {
+          "name": "Sungai Beremas",
+          "kelurahans": [
+            {
+              "name": "Aia Bangih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Ranah Batahan",
+          "kelurahans": [
+            {
+              "name": "Desa Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Balingka",
+          "kelurahans": [
+            {
+              "name": "Parik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sungai Aur",
+          "kelurahans": [
+            {
+              "name": "Sungai Aua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lembah Malintang",
+          "kelurahans": [
+            {
+              "name": "Ujuang Gadiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Gunung Tuleh",
+          "kelurahans": [
+            {
+              "name": "Muaro Kiawai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rabi Jongor",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Talamau",
+          "kelurahans": [
+            {
+              "name": "Kajai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sinuruik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pasaman",
+          "kelurahans": [
+            {
+              "name": "Lingkuang Aua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aua Kuniang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aia Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Luhak Nan Duo",
+          "kelurahans": [
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Sasak Ranah Pasisie",
+          "kelurahans": [
+            {
+              "name": "Sasak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kinali",
+          "kelurahans": [
+            {
+              "name": "Katiagan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kinali",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Padang",
+      "kecamatans": [
+        {
+          "name": "Bungus Teluk Kabung",
+          "kelurahans": [
+            {
+              "name": "Teluk Kabung Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungus Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Teluk Kabung Tengah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Teluk Kabung Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungus Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungus Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Kilangan",
+          "kelurahans": [
+            {
+              "name": "Tarantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Beringin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Indarung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Besi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Lalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bandar Buat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lubuk Begalung",
+          "kelurahans": [
+            {
+              "name": "Kampung Baru Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pampangan Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Aur Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Laweh Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Banuaran Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Begalung Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cengkeh Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gates Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pagambiran Ampulu Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parak Laweh Pulau Air Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Saba Pitameh Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah Sirah Piai Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Jua Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batuang Taba Nan Xx",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Selatan",
+          "kelurahans": [
+            {
+              "name": "Air Manis",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Gado Gado",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Arau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Seberang Palinggam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasa Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Belakang Pondok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Alang Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taluak Bayua",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rawang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Mato Aie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Seberang Padang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ranah Parak Rumbio",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Timur",
+          "kelurahans": [
+            {
+              "name": "Sawahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ganting Parak Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parak Gadang Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubu Marapalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubu Parak Karakah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Andalas",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Haru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sawahan Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jati Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jati",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Barat",
+          "kelurahans": [
+            {
+              "name": "Belakang Tangsi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Olo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ujung Gurun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Berok Nipah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Pondok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Jao",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Purus",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Pasir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rimbo Kaluang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Flamboyan Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Utara",
+          "kelurahans": [
+            {
+              "name": "Gunung Pangilun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ulak Karang Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ulak Karang Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Tawar Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Tawar Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Alai Parak Kopi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lolong Belanti",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Nanggalo",
+          "kelurahans": [
+            {
+              "name": "Tabiang Banda Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gurun Laweh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Olo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Lapai Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Surau Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kurao Pagang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Kuranji",
+          "kelurahans": [
+            {
+              "name": "Anduring",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Ambacang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Lintah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ampang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kalumbuk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Korong Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kuranji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Gunung Sarik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sapih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pauh",
+          "kelurahans": [
+            {
+              "name": "Pisang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Binuang Kampung Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Piai Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cupak Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapala Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Luar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lambung Bukit",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Manis Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limau Manis",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Koto Tangah",
+          "kelurahans": [
+            {
+              "name": "Dadok Tunggul Hitam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Pacah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Minturun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungo Pasang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parupuk Tabing",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Kabung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubuk Buaya",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Sarai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Panjang Ikua Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir Nan Tigo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Pulai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batipuh Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Solok",
+      "kecamatans": [
+        {
+          "name": "Lubuk Sikarah",
+          "kelurahans": [
+            {
+              "name": "Tanah Garam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Vi Suku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sinapa Piliang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ix Korong",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampai Tabu Kerambil",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aro Iv Korong",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang Rumbio",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Tanjung Harapan",
+          "kelurahans": [
+            {
+              "name": "Koto Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Pandan Air Mati",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Paku",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nan Balimo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Jawa",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Laing",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Sawah Lunto",
+      "kecamatans": [
+        {
+          "name": "Silungkang",
+          "kelurahans": [
+            {
+              "name": "Silungkang Oso",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Bancah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Muaro Kalaban",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silungkang Tigo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silungkang Duo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lembah Segar",
+          "kelurahans": [
+            {
+              "name": "Lunto Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lunto Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Kubang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Utara Sikabu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Sirakuk Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubang Sirakuk Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aur Mulyo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah Lapang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Dingin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Barangin",
+          "kelurahans": [
+            {
+              "name": "Lumindai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Batu Sandaran",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Saringan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lubang Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian I",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Durian Ii",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talago Gunung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Santur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kolok Mudik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kolok Nan Tuo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Talawi",
+          "kelurahans": [
+            {
+              "name": "Sikalang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rantih",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Salak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sijantang Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talawi Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talawi Mudik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukik Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batu Tanjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kumbayau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Datar Mansiang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tumpuk Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Padang Panjang",
+      "kecamatans": [
+        {
+          "name": "Padang Panjang Barat",
+          "kelurahans": [
+            {
+              "name": "Silaing Bawah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Silaing Atas",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Usang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung  Manggis",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah Hitam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasar Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Surungan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai-Balai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Padang Panjang Timur",
+          "kelurahans": [
+            {
+              "name": "Koto Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Katik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ngalau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ekor Lubuk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sigando",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ganting",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Guguk  Malintang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah  Pak Lambik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Bukittinggi",
+      "kecamatans": [
+        {
+          "name": "Guguk Panjang",
+          "kelurahans": [
+            {
+              "name": "Bukit Cangang Kayu Ramang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tarok Dipo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakan Kurai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aur Tajungkang Tengah Sawah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Benteng Pasar Atas",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kayu Kubu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bukit Apit Puhun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Mandiangin Koto Selayan",
+          "kelurahans": [
+            {
+              "name": "Pulai Anak Air",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Selayan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Garegeh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Manggis Ganting",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Campago Ipuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Puhun Tembok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Puhun Pintu Kabun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubu Gulai Bancah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Campago Guguk Bulek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Aur Birugo Tigo Baleh",
+          "kelurahans": [
+            {
+              "name": "Belakang Balok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sapiran",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Birugo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Aur Kuning",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakan Labuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubu Tanjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ladang Cakiah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parit Antang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Payakumbuh",
+      "kecamatans": [
+        {
+          "name": "Payakumbuh Barat",
+          "kelurahans": [
+            {
+              "name": "Pakan Sinayan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kubu Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bulakan Balai Kandi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuang Pauah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ibuah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Labuah Basilang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parak Batuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parik Rantang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Payolansek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanah Mati",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Data",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Subarang Batuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Nunang Daya Bangun",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Tinggi Piliang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padangtongah Balainanduo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjuanggodang Sungaipinago",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Payakumbuh Selatan",
+          "kelurahans": [
+            {
+              "name": "Balai Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Limbukan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Karambia",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kototuo Limokampuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapalo Koto Ampangan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sawahpadang Aua Kuniang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Payakumbuh Timur",
+          "kelurahans": [
+            {
+              "name": "Padang Tangah Payobada",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Jaring",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Payobasung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Panjang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Alai Bodi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Tiakar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sicincin",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tiakar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Payakumbuh Utara",
+          "kelurahans": [
+            {
+              "name": "Napar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ompang Tanah Sirah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak Padang Kampuang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Koto Dibaruah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tigo Koto Diate",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kapalo Koto Dibalai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kotokociak Kubu Tapakrajo",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Tongah Koto",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ikua Koto Dibalai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Lamposi Tigo Nagori",
+          "kelurahans": [
+            {
+              "name": "Koto Panjang Padang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Panjang Dalam",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parambahan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Sikabu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Parit Muko Aie",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Durian",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Pariaman",
+      "kecamatans": [
+        {
+          "name": "Pariaman Selatan",
+          "kelurahans": [
+            {
+              "name": "Pasir Sunur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Marunggi",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Apar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikabu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Palak Aneh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Cakur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taluk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Marabau",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Kasai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Tajongkek",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Kurai Taji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauh Kurai Taji",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Simpang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Toboh Palabah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rambai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Punggung Lading",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pariaman Tengah",
+          "kelurahans": [
+            {
+              "name": "Karan Aur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jalan Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Ujung Batung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jalan Kereta Api",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cimparuh",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Alai Gelombang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Taratak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Baru",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Lohong",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pasir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Perak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pondok Ii",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jawi-Jawi I",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jawi-Jawi Ii",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Jawa Ii",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Jawa I",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Pondok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauh Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pauh Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Rawang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jati Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Jati Mudik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pariaman Timur",
+          "kelurahans": [
+            {
+              "name": "Kampung Gadang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Talago Sarik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bato",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Batang Kabung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Sirah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Bungo Tanjung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Kandang",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kaluat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kajai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Tangah",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Pasak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Air Santok",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cubadak Mentawai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Koto Marapak",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Pakasai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Kampung Baru Padusunan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        },
+        {
+          "name": "Pariaman Utara",
+          "kelurahans": [
+            {
+              "name": "Ampalu",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tanjung Sabar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Apar",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Manggung",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cubadak Air",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cubadak Air Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikapak Timur",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sikapak Barat",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tungkal Selatan",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Tungkal Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Cubadak Air Utara",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Naras Hilir",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Naras I",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Balai Naras",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Padang Birik-Birik",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sintuk",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            },
+            {
+              "name": "Sungai Rambai",
+              "lat": "-0.739945",
+              "lng": "100.800005"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

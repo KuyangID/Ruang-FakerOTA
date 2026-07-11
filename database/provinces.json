@@ -1,0 +1,172 @@
+[
+  {
+    "id": "11",
+    "name": "Aceh",
+    "file": "aceh.json"
+  },
+  {
+    "id": "12",
+    "name": "Sumatera Utara",
+    "file": "sumatera_utara.json"
+  },
+  {
+    "id": "13",
+    "name": "Sumatera Barat",
+    "file": "sumatera_barat.json"
+  },
+  {
+    "id": "14",
+    "name": "Riau",
+    "file": "riau.json"
+  },
+  {
+    "id": "15",
+    "name": "Jambi",
+    "file": "jambi.json"
+  },
+  {
+    "id": "16",
+    "name": "Sumatera Selatan",
+    "file": "sumatera_selatan.json"
+  },
+  {
+    "id": "17",
+    "name": "Bengkulu",
+    "file": "bengkulu.json"
+  },
+  {
+    "id": "18",
+    "name": "Lampung",
+    "file": "lampung.json"
+  },
+  {
+    "id": "19",
+    "name": "Kepulauan Bangka Belitung",
+    "file": "kepulauan_bangka_belitung.json"
+  },
+  {
+    "id": "21",
+    "name": "Kepulauan Riau",
+    "file": "kepulauan_riau.json"
+  },
+  {
+    "id": "31",
+    "name": "Dki Jakarta",
+    "file": "dki_jakarta.json"
+  },
+  {
+    "id": "32",
+    "name": "Jawa Barat",
+    "file": "jawa_barat.json"
+  },
+  {
+    "id": "33",
+    "name": "Jawa Tengah",
+    "file": "jawa_tengah.json"
+  },
+  {
+    "id": "34",
+    "name": "Di Yogyakarta",
+    "file": "di_yogyakarta.json"
+  },
+  {
+    "id": "35",
+    "name": "Jawa Timur",
+    "file": "jawa_timur.json"
+  },
+  {
+    "id": "36",
+    "name": "Banten",
+    "file": "banten.json"
+  },
+  {
+    "id": "51",
+    "name": "Bali",
+    "file": "bali.json"
+  },
+  {
+    "id": "52",
+    "name": "Nusa Tenggara Barat",
+    "file": "nusa_tenggara_barat.json"
+  },
+  {
+    "id": "53",
+    "name": "Nusa Tenggara Timur",
+    "file": "nusa_tenggara_timur.json"
+  },
+  {
+    "id": "61",
+    "name": "Kalimantan Barat",
+    "file": "kalimantan_barat.json"
+  },
+  {
+    "id": "62",
+    "name": "Kalimantan Tengah",
+    "file": "kalimantan_tengah.json"
+  },
+  {
+    "id": "63",
+    "name": "Kalimantan Selatan",
+    "file": "kalimantan_selatan.json"
+  },
+  {
+    "id": "64",
+    "name": "Kalimantan Timur",
+    "file": "kalimantan_timur.json"
+  },
+  {
+    "id": "65",
+    "name": "Kalimantan Utara",
+    "file": "kalimantan_utara.json"
+  },
+  {
+    "id": "71",
+    "name": "Sulawesi Utara",
+    "file": "sulawesi_utara.json"
+  },
+  {
+    "id": "72",
+    "name": "Sulawesi Tengah",
+    "file": "sulawesi_tengah.json"
+  },
+  {
+    "id": "73",
+    "name": "Sulawesi Selatan",
+    "file": "sulawesi_selatan.json"
+  },
+  {
+    "id": "74",
+    "name": "Sulawesi Tenggara",
+    "file": "sulawesi_tenggara.json"
+  },
+  {
+    "id": "75",
+    "name": "Gorontalo",
+    "file": "gorontalo.json"
+  },
+  {
+    "id": "76",
+    "name": "Sulawesi Barat",
+    "file": "sulawesi_barat.json"
+  },
+  {
+    "id": "81",
+    "name": "Maluku",
+    "file": "maluku.json"
+  },
+  {
+    "id": "82",
+    "name": "Maluku Utara",
+    "file": "maluku_utara.json"
+  },
+  {
+    "id": "91",
+    "name": "Papua Barat",
+    "file": "papua_barat.json"
+  },
+  {
+    "id": "94",
+    "name": "Papua",
+    "file": "papua.json"
+  }
+]

@@ -1,0 +1,3575 @@
+{
+  "name": "Sulawesi Barat",
+  "kotas": [
+    {
+      "name": "Kabupaten Majene",
+      "kecamatans": [
+        {
+          "name": "Banggae",
+          "kelurahans": [
+            {
+              "name": "Totoli",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Baru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pangali-Ali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banggae",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rangas",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Palipi Soreang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pamboborang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Galung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Banggae Timur",
+          "kelurahans": [
+            {
+              "name": "Baurung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Labuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tande",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Baruga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Baruga Dua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Labuang Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tande Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buttu Baruga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Pamboang",
+          "kelurahans": [
+            {
+              "name": "Bonde",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bababulo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Simbang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lalampanua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Adolang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sirindu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonde Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bababulo Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buttu Pamboang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tinambung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banua Adolang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Adolang Dua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pesuloang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balombong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Sendana",
+          "kelurahans": [
+            {
+              "name": "Mosso Dua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mosso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Puttada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sendana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tallum Banua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pundau",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bukit Samang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Limbua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lalatedong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Paminggalan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Totolisi Sendana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banua Sendana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tallu Banua Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Limboro Rambu-Rambu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leppangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Binanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tammerodo",
+          "kelurahans": [
+            {
+              "name": "Tallambalao",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tammerodo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Seppong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulidang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tammerodo Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Manyamba",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Awo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tubo Sendana",
+          "kelurahans": [
+            {
+              "name": "Onang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Onang Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tubo Selatan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tubo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonde-Bonde",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tubo Tengah",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tubo Poang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Malunda",
+          "kelurahans": [
+            {
+              "name": "Malunda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lombong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mekkatta",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Maliaya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lombang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lamungang Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kayuangin",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lombong Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutahongan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mekkatta Selatan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lombang Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Ulumanda",
+          "kelurahans": [
+            {
+              "name": "Ulumanda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sambabo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tandeallo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kabiraan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Popenga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutambung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Panggalo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sulai",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Polewali Mandar",
+      "kecamatans": [
+        {
+          "name": "Tinambung",
+          "kelurahans": [
+            {
+              "name": "Tandung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sepa Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tangnga-Tangnga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karama",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batulaya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tinambung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lekopadis",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Galung Lombok",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Balanipa",
+          "kelurahans": [
+            {
+              "name": "Balanipa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tammangalle",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Galung Tulu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sabang Subik",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pambusuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bala",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lego",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lambanan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mosso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tammajarra",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pallis",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Limboro",
+          "kelurahans": [
+            {
+              "name": "Renggeang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tandasura",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tangan Baru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembang Lembang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Limboro",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Samasundu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Napo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salarri",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Todang Todang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pendulangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Palece",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tubbi Taramanu",
+          "kelurahans": [
+            {
+              "name": "Taramanu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ambopadang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tubbi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ratte",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Besoangin",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Piriang Tapiko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pollewani",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Poda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Besoangin Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Arabua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taramanu Tua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taloba",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Alu",
+          "kelurahans": [
+            {
+              "name": "Saragian",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mombi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Petoosang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalumammang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pao Pao",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pupuuring",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sayoang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Alu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Campalagian",
+          "kelurahans": [
+            {
+              "name": "Laliko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lapeo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Suruang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pappang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonde",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Parappe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Panyampa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lemo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Katumbangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lampoko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ongko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sumarang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "B O T T O",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lagi Agi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Padang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Gattungan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Padang Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Luyo",
+          "kelurahans": [
+            {
+              "name": "Sambali-Wali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tenggelan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Baru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mapilli Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Luyo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "M A M B U",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pussui",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batupanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batupanga Daala",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Puccadi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pussui Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Wonomulyo",
+          "kelurahans": [
+            {
+              "name": "Tumpiling",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Nepo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kebunsari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Arjosari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bumiayu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bumi Mulyo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sidorejo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sidodadi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Campurjo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sumberjo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sugih Waras",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banua Baru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bakka-Bakka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Galeso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Mapilli",
+          "kelurahans": [
+            {
+              "name": "Rumpa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ugi Baru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonne-Bonne",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mapilli",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kurma",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rappang Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Beroangin",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Segerang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonra",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sattoko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Landi Kanusuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tapango",
+          "kelurahans": [
+            {
+              "name": "Rappang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Dakka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pelitakan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tapango",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tapango Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Palatta",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Riso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kurrak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tutula",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Jambu Malea",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banato Rejo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalimbua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Matakali",
+          "kelurahans": [
+            {
+              "name": "Patampanua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Matakali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tonro Lima",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Indumakkombong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Barumbung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pasiang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bunga Bunga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "B U L O",
+          "kelurahans": [
+            {
+              "name": "Pulliwa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Daala Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "B U L O",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karombang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Patambanua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lenggo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sepporraki",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ihing",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sabura",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Polewali",
+          "kelurahans": [
+            {
+              "name": "Darma",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Manding",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Madatte",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pekkabata",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Takatidung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lantora",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sulewatang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Wattang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Polewali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Binuang",
+          "kelurahans": [
+            {
+              "name": "Tonyaman",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Amassangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mirring",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Paku",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batetangnga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kuajang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mammi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kaleok",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rea",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Amola",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Anreapi",
+          "kelurahans": [
+            {
+              "name": "Anreapi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kelapa Dua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pappandangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Duampanua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kunyi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Matangnga",
+          "kelurahans": [
+            {
+              "name": "Lilli",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tapua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Matangnga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rangoan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ba'Pa Tapua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mambu Tapua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Katimbang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Mamasa",
+      "kecamatans": [
+        {
+          "name": "Sumarorong",
+          "kelurahans": [
+            {
+              "name": "Sibanawa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batanguru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tabone",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tadisi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sasakan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sumarorong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banea",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubalo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batanguru Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rante Kamase",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Messawa",
+          "kelurahans": [
+            {
+              "name": "Messawa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rippung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Makuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sepang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malimbong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Matande",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sipai",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pasapa' Mambu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tanete Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Pana",
+          "kelurahans": [
+            {
+              "name": "Pana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Manipi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mamullu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulusalu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sapan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Datu Baringan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Panura",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tallang Bulawan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karaka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Weri",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulusalu Indah",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutambun",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saloan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Nosu",
+          "kelurahans": [
+            {
+              "name": "Nosu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Masewe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Papan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Minanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Siwi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Minanga Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Parinding",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tabang",
+          "kelurahans": [
+            {
+              "name": "Tabang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tabang Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tado' Kalua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Masuppu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bakadisura",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalama'",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salukona",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Mamasa",
+          "kelurahans": [
+            {
+              "name": "Mamasa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Osango",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rambu Saratu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lambanan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembangna Salulo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taupe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buntubuda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tondok Bakaru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pebassian",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mambulilling",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bombong Lambe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bubun Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tanduk Kalua",
+          "kelurahans": [
+            {
+              "name": "Mesakada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tamalantik",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bala Batu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malabo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Minake",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mannababa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Parondo Bulawan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sindagamanik",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kanan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pambe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salurano",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Talimbung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Balla",
+          "kelurahans": [
+            {
+              "name": "Balla",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balla Satanetean",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balla Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pidara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balla Tumuka'",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambapuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sepakuan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balla Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Sesenapadang",
+          "kelurahans": [
+            {
+              "name": "Rantepuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Melangkena Padang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Paladan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Satanetean",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Orobua Selatan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Orobua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Orobua Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lisuan Ada'",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malimbong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Marampan Orobua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tawalian",
+          "kelurahans": [
+            {
+              "name": "Tawalian Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kariango",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tawalian",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rantetangnga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Mambi",
+          "kelurahans": [
+            {
+              "name": "Mambi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Talippuki",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rantebulahan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sondong Lajuk",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubanua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tapalinna",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pammoseang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salumakak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bujungmanurung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sendana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Indo Banua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salualo'",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saludurian",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Bambang",
+          "kelurahans": [
+            {
+              "name": "Bambang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambang Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rantelemo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulumambi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saludengen",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Minanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sikamase",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembangmokallang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Masoso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saluassing",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubulo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salukadi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salukepopo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulumambi Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Limbadebata",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tanete Tomba",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutabang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salururu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rantetarima",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balatana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Rantebulahan Timur",
+          "kelurahans": [
+            {
+              "name": "Salumokanan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buangin",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salumokanan Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salumokanan Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambang Buda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kirak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sampale",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Mehalaan",
+          "kelurahans": [
+            {
+              "name": "Botteng",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Passembuk",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salukonta",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leko Sukamaju",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mesakada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mehalaan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mehalaan Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saluahok",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kondo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ulumea",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubalo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Aralle",
+          "kelurahans": [
+            {
+              "name": "Aralle",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ralleanak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Panetean",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Uhailanu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Aralle Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Uhaidao",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Baruru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ralleanak Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pammoseang Pangga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Aralle Selatan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Hahangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalabe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Buntu Malangka",
+          "kelurahans": [
+            {
+              "name": "Aralle Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutambun Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutambun",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kebanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutambun Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kabae",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salurinduk",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Penatangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buntu Malangka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ranteberang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taora",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tabulahan",
+          "kelurahans": [
+            {
+              "name": "Lakahang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Periangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malatiro",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tabulahan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saluleang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tampak Kurra",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Gandang Dewata",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Burana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubakka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pangandaran",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lakahang Utama",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Talopak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Timoro",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Mamuju",
+      "kecamatans": [
+        {
+          "name": "Tapalang",
+          "kelurahans": [
+            {
+              "name": "Kasambang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bela",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Galung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Orobatu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Takandeang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kopeang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rantedoda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tampalang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Dayanginna",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tapalang Barat",
+          "kelurahans": [
+            {
+              "name": "Pasa'Bu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Dungkait",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Labuang Rano",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lebani",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tanete Pao",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ahu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pangasaan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Mamuju",
+          "kelurahans": [
+            {
+              "name": "Binanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mamunyu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tadui",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karampuang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rimuku",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karema",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Panu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Simboro",
+          "kelurahans": [
+            {
+              "name": "Botteng",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salletto",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Simboro",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rangas",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sumare",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Botteng Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tapandullu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pati`Di",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Balabalakang",
+          "kelurahans": [
+            {
+              "name": "Balabalakang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balabalakang Timur",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Kalukku",
+          "kelurahans": [
+            {
+              "name": "Bebanga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sinyonyoi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "K E A N G",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sondoang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalukku",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kabuloang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Belang-Belang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pokkang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Guliling",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Uhaimate",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalukku Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pammulukang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sinyonyoi Selatan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Papalang",
+          "kelurahans": [
+            {
+              "name": "Papalang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Topore",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sukadamai",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salokayu I",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "T O A B O",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Boda-Boda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Ampa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sisango",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Sampaga",
+          "kelurahans": [
+            {
+              "name": "Salubarana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalonding",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tanambuah",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tarailu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sampaga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Losso",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tommo",
+          "kelurahans": [
+            {
+              "name": "Tamemongga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tommo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Buana Sakti",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Campaloga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Rante Mario",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tammejarra",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malino",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kakullasan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leling",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalepu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saludengen",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sandana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leling Barat",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Leling Utara",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Kalumpang",
+          "kelurahans": [
+            {
+              "name": "Kalumpang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karataun",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Siraun",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karama",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tumonga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salumakki",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Polio",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Limbong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sandapang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kondo Bulo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Makkaliki",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lasa'",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Makkada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Bonehau",
+          "kelurahans": [
+            {
+              "name": "Buttu Ada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bonehau",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salutiwo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lumika",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tamalea",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mappu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Banuada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Hinua",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kinantang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Mamuju Utara",
+      "kecamatans": [
+        {
+          "name": "Sarudu",
+          "kelurahans": [
+            {
+              "name": "Sarudu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kumasari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bulu Mario",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Patika",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Doda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Dapurang",
+          "kelurahans": [
+            {
+              "name": "Benggaulu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bulu Bonggu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tirta Buana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sarasa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Dapurang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Duripoku",
+          "kelurahans": [
+            {
+              "name": "Tammarunang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Saptanajaya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Taranggi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sipakainga",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Baras",
+          "kelurahans": [
+            {
+              "name": "Baras",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Balanti",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Motu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bulu Parigi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Towoni",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kasano",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Bulu Taba",
+          "kelurahans": [
+            {
+              "name": "Karave",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lilimori",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bukit Harapan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ompi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sumber Sari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lelejae",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kasta Buana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Lariang",
+          "kelurahans": [
+            {
+              "name": "Bajawali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Singgani",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Parabu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kenangan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambakoro",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Matoru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Pasangkayu",
+          "kelurahans": [
+            {
+              "name": "Pasangkayu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Martajaya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pakawa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karya Bersama",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Ako",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Gunung Sari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tikke Raya",
+          "kelurahans": [
+            {
+              "name": "Lariang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Jengeng Raya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tikke",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Makmur Jaya",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pajalele",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Pedongga",
+          "kelurahans": [
+            {
+              "name": "Martasari",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Malei",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pedanda",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Oge",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Bambalamotu",
+          "kelurahans": [
+            {
+              "name": "Polewali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambalamotu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Randomayang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pangiang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kalola",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Wulai",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Bambaira",
+          "kelurahans": [
+            {
+              "name": "Kasoloang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kaluku Nangka",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambaira",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tampaure",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Sarjo",
+          "kelurahans": [
+            {
+              "name": "Maponu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Letawa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sarjo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sarude",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Mamuju Tengah",
+      "kecamatans": [
+        {
+          "name": "Pangale",
+          "kelurahans": [
+            {
+              "name": "Pangale",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lemo-Lemo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Polopangale",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sartanamaju",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kombiling",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lamba-Lamba",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Polocamba",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Polo Lereng",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "K U O",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Budong-Budong",
+          "kelurahans": [
+            {
+              "name": "Salumanurung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Barakkang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tinali",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salogatta",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "K I R E",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Babana",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pontanakayang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembah Hada",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bojo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pasappa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Tobadak",
+          "kelurahans": [
+            {
+              "name": "Sulobaja",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambadaru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salo Adak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sejati",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Batu Parigi",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Palongan",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mahahe",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tobadak",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Topoyo",
+          "kelurahans": [
+            {
+              "name": "Budong-Budong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Pangalloang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Topoyo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Paraili",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "K A B U B U",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sinabatta",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Waeputeh",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tappilina",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salupangkang Iv",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Bambamanurung",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salupangkang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tangkou",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tabolang",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salulekbo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        },
+        {
+          "name": "Karossa",
+          "kelurahans": [
+            {
+              "name": "Kambunong",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Tasokko",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Salubiru",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "L A R A",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sukamaju",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Lembah Hopo",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Upt Lara Iii",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Karossa",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kayucalla",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Kadaila",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Benggaulu",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Mora Iv",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            },
+            {
+              "name": "Sanjango",
+              "lat": "-2.844048",
+              "lng": "119.232078"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

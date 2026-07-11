@@ -1,0 +1,2490 @@
+{
+  "name": "Di Yogyakarta",
+  "kotas": [
+    {
+      "name": "Kabupaten Kulon Progo",
+      "kecamatans": [
+        {
+          "name": "Temon",
+          "kelurahans": [
+            {
+              "name": "Jangkaran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sindutan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Palihan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Glagah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kali Dengen",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Plumbon",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kedundang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kaligintung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Temon Wetan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Temon Kulon",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kebonrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Janten",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Wuluh",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Wates",
+          "kelurahans": [
+            {
+              "name": "Karang Wuni",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sogan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kulwaru",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngestiharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Triharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bendungan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giri Peni",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wates",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Panjatan",
+          "kelurahans": [
+            {
+              "name": "Garongan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kanoman",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Depok",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bojong",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tayuban",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gotakan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Panjatan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Krembangan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Galur",
+          "kelurahans": [
+            {
+              "name": "Karang Sewu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banaran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kranggan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nomporejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Brosot",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pandowan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tirta Rahayu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Lendah",
+          "kelurahans": [
+            {
+              "name": "Wahyuharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bumirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jatirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidorejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gulurejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngentakrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sentolo",
+          "kelurahans": [
+            {
+              "name": "Demangrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Srikayangan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tuksono",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Salamrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sukoreno",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kaliagung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sentolo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banguncipto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pengasih",
+          "kelurahans": [
+            {
+              "name": "Tawangsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kedungsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pengasih",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendangsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kokap",
+          "kelurahans": [
+            {
+              "name": "Hargomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargorejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargowilis",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kalirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargotirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Girimulyo",
+          "kelurahans": [
+            {
+              "name": "Jatimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giripurwo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pendoworejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Purwosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Nanggulan",
+          "kelurahans": [
+            {
+              "name": "Banyuroto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Donomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wijimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tanjungharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jati Sarono",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kembang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kalibawang",
+          "kelurahans": [
+            {
+              "name": "Banjararum",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banjarasri",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banjarharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banjaroyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Samigaluh",
+          "kelurahans": [
+            {
+              "name": "Kebon Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banjarsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Purwoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gerbosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngargosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pagerharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Bantul",
+      "kecamatans": [
+        {
+          "name": "Srandakan",
+          "kelurahans": [
+            {
+              "name": "Poncosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Trimurti",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sanden",
+          "kelurahans": [
+            {
+              "name": "Gadingsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gadingharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Srigading",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Murtigading",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kretek",
+          "kelurahans": [
+            {
+              "name": "Tirtohargo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Parangtritis",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Donotirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tirtosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tirtomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pundong",
+          "kelurahans": [
+            {
+              "name": "Seloharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Panjangrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Srihardono",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Bambang Lipuro",
+          "kelurahans": [
+            {
+              "name": "Sidomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Mulyodadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumbermulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pandak",
+          "kelurahans": [
+            {
+              "name": "Caturharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Triharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gilangharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wijirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Bantul",
+          "kelurahans": [
+            {
+              "name": "Palbapang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ringin Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bantul",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Trirenggo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sabdodadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Jetis",
+          "kelurahans": [
+            {
+              "name": "Patalan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Canden",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumber Agung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Trimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Imogiri",
+          "kelurahans": [
+            {
+              "name": "Selopamioro",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sriharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kebon Agung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Tengah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Girirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangtalun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Imogiri",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wukirsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Dlingo",
+          "kelurahans": [
+            {
+              "name": "Mangunan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Dlingo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jatimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Terong",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pleret",
+          "kelurahans": [
+            {
+              "name": "Wonokromo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Segoroyoso",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bawuran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wonolelo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Piyungan",
+          "kelurahans": [
+            {
+              "name": "Sitimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Srimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Srimartani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Banguntapan",
+          "kelurahans": [
+            {
+              "name": "Tamanan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jagalan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Singosaren",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wirokerten",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jambidan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Potorono",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Baturetno",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banguntapan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sewon",
+          "kelurahans": [
+            {
+              "name": "Pendowoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Timbulharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bangunharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Panggungharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kasihan",
+          "kelurahans": [
+            {
+              "name": "Bangunjiwo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tirtonirmolo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tamantirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngestiharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pajangan",
+          "kelurahans": [
+            {
+              "name": "Triwidadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendangsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Guwosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sedayu",
+          "kelurahans": [
+            {
+              "name": "Argodadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Argorejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Argosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Argomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Gunung Kidul",
+      "kecamatans": [
+        {
+          "name": "Panggang",
+          "kelurahans": [
+            {
+              "name": "Giriharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giriwungu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Girimulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Girikarto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Girisekar",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Girisuko",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Purwosari",
+          "kelurahans": [
+            {
+              "name": "Girijati",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giriasih",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giricahyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giripurwo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giritirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Paliyan",
+          "kelurahans": [
+            {
+              "name": "Karang Duwet",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Asem",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Mulusan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giring",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sodo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pampang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Grogol",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sapto Sari",
+          "kelurahans": [
+            {
+              "name": "Krambil Sawit",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kanigoro",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Planjan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Monggol",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nglora",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jetis",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Tepus",
+          "kelurahans": [
+            {
+              "name": "Sidoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Purwodadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giripanggung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Tanjungsari",
+          "kelurahans": [
+            {
+              "name": "Kemadang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kemiri",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banjarejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngestirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Rongkop",
+          "kelurahans": [
+            {
+              "name": "Melikan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bohol",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pringombo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Botodayakan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Petir",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Semugih",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangwuni",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pucanganom",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Girisubo",
+          "kelurahans": [
+            {
+              "name": "Balong",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jepitu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangawen",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tileng",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nglindur",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Songbanyu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Semanu",
+          "kelurahans": [
+            {
+              "name": "Pacarejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Candirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Dadapayu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngeposari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Semanu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Ponjong",
+          "kelurahans": [
+            {
+              "name": "Gombang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidorejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bedoyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Asem",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ponjong",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Genjahan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumber Giri",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tambakromo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sawahan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Umbul Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Karangmojo",
+          "kelurahans": [
+            {
+              "name": "Bendungan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bejiharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wiladeg",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kelor",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngipak",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangmojo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gedang Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngawis",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jati Ayu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Wonosari",
+          "kelurahans": [
+            {
+              "name": "Mulo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wareng",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pulutan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Siraman",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Rejek",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Baleharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Selang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wonosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Piyaman",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Tengah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Playen",
+          "kelurahans": [
+            {
+              "name": "Banyusoco",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Plembutan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bleberan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Getas",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Dengok",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Playen",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngawu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bandung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Logandeng",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gading",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banaran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngleri",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Patuk",
+          "kelurahans": [
+            {
+              "name": "Semoyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pengkok",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Beji",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nglegi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Putat",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Salam",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Patuk",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngoro Oro",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nglanggeran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Terbah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Gedang Sari",
+          "kelurahans": [
+            {
+              "name": "Ngalang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargo Mulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tegalrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Watu Gajah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sampang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Nglipar",
+          "kelurahans": [
+            {
+              "name": "Kedung Keris",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nglipar",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pengkol",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kedungpoh",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Katongan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pilang Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Natah",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Ngawen",
+          "kelurahans": [
+            {
+              "name": "Watu Sigar",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Beji",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kampung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jurang Jero",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sambirejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tancep",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Semin",
+          "kelurahans": [
+            {
+              "name": "Kalitekuk",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kemejing",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Semin",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pundung Sari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karang Sari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Rejosari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bulurejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumberrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Candi Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Sleman",
+      "kecamatans": [
+        {
+          "name": "Moyudan",
+          "kelurahans": [
+            {
+              "name": "Sumberrahayu",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumbersari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumber Agung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumberarum",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Minggir",
+          "kelurahans": [
+            {
+              "name": "Sendang Mulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendang Arum",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendang Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendangsari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendangagung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Seyegan",
+          "kelurahans": [
+            {
+              "name": "Margoluwih",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margodadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margoagung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margokaton",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Godean",
+          "kelurahans": [
+            {
+              "name": "Sidorejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidoluhur",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidomulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidoagung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidokarto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidoarum",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sidomoyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Gamping",
+          "kelurahans": [
+            {
+              "name": "Balecatur",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ambarketawang",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Banyuraden",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Nogotirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Trihanggo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Mlati",
+          "kelurahans": [
+            {
+              "name": "Tirtoadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumberadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tlogoadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sendangadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sinduadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Depok",
+          "kelurahans": [
+            {
+              "name": "Catur Tunggal",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Maguwoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Condong Catur",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Berbah",
+          "kelurahans": [
+            {
+              "name": "Sendang Tirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tegal Tirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Jogo Tirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kali Tirto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Prambanan",
+          "kelurahans": [
+            {
+              "name": "Sumber Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wukir Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gayam Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sambi Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Madu Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Boko Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kalasan",
+          "kelurahans": [
+            {
+              "name": "Purwo Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tirto Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Taman Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Selo Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Ngemplak",
+          "kelurahans": [
+            {
+              "name": "Wedomartani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Umbulmartani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Widodo Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bimo Martani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sindumartani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Ngaglik",
+          "kelurahans": [
+            {
+              "name": "Sari Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sinduharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Minomartani",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Suko Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sardonoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Donoharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Sleman",
+          "kelurahans": [
+            {
+              "name": "Catur Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Triharjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tridadi",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pandowo Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tri Mulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Tempel",
+          "kelurahans": [
+            {
+              "name": "Banyu Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tambak Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sumber Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pondok Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Moro Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Margo Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Lumbung Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Merdiko Rejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Turi",
+          "kelurahans": [
+            {
+              "name": "Bangun Kerto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Donokerto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Giri Kerto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wono Kerto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pakem",
+          "kelurahans": [
+            {
+              "name": "Purwo Binangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Candi Binangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Harjo Binangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pakem Binangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Hargo Binangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Cangkringan",
+          "kelurahans": [
+            {
+              "name": "Wukir Sari",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Argo Mulyo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Glagah Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kepuh Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Umbul Harjo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Yogyakarta",
+      "kecamatans": [
+        {
+          "name": "Mantrijeron",
+          "kelurahans": [
+            {
+              "name": "Gedongkiwo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Suryodiningratan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Mantrijeron",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kraton",
+          "kelurahans": [
+            {
+              "name": "Patehan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Panembahan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kadipaten",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Mergangsan",
+          "kelurahans": [
+            {
+              "name": "Brontokusuman",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Keparakan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wirogunan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Umbulharjo",
+          "kelurahans": [
+            {
+              "name": "Giwangan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sorosutan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pandeyan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Warungboto",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tahunan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Muja Muju",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Semaki",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Kotagede",
+          "kelurahans": [
+            {
+              "name": "Prenggan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Purbayan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Rejowinangun",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Gondokusuman",
+          "kelurahans": [
+            {
+              "name": "Baciro",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Demangan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Klitren",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kotabaru",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Terban",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Danurejan",
+          "kelurahans": [
+            {
+              "name": "Suryatmajan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Tegal Panggung",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Bausasran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Pakualaman",
+          "kelurahans": [
+            {
+              "name": "Purwo Kinanti",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Gondomanan",
+          "kelurahans": [
+            {
+              "name": "Prawirodirjan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngupasan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Ngampilan",
+          "kelurahans": [
+            {
+              "name": "Notoprajan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Ngampilan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Wirobrajan",
+          "kelurahans": [
+            {
+              "name": "Patangpuluhan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Wirobrajan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Pakuncen",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Gedong Tengen",
+          "kelurahans": [
+            {
+              "name": "Pringgokusuman",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Sosromenduran",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Jetis",
+          "kelurahans": [
+            {
+              "name": "Bumijo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Gowongan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Cokrodiningratan",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        },
+        {
+          "name": "Tegalrejo",
+          "kelurahans": [
+            {
+              "name": "Tegalrejo",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Kricak",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            },
+            {
+              "name": "Karangwaru",
+              "lat": "-7.875385",
+              "lng": "110.426208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

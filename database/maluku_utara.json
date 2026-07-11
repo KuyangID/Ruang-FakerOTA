@@ -1,0 +1,6410 @@
+{
+  "name": "Maluku Utara",
+  "kotas": [
+    {
+      "name": "Kabupaten Halmahera Barat",
+      "kecamatans": [
+        {
+          "name": "Jailolo",
+          "kelurahans": [
+            {
+              "name": "Buku Bualawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tauro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Matui",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuada",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todowongi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukumatiti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Porniti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamlamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gufasa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Guaemaadu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobanehena",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saria",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Payo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Idamdehe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Idamdehe Gamsungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jalan Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marimabati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamtala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soakonora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lolori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Taboso",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hoku Hoku Kie",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Acango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akediri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Guaeria",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hatebicara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukumaadu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ulo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pateng",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobojiko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kuripasai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Jailolo Selatan",
+          "kelurahans": [
+            {
+              "name": "Rioribati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toniku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dodinga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akeara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguraci",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Biamaahi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ake Jailolo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidangoli Dehe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidangoli Gam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Domato",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamlenge",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tataleka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabadamai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Braha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bangkit Rahmat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Moiso",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Suka Damai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hijrah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobane Dano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ratem",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sahu",
+          "kelurahans": [
+            {
+              "name": "Lako Akelamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tacim",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Taruba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balisoan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Golo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Taraudu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tacici",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Worat Worat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todahe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Peot",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sasur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goro Goro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lako Akediri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jarakore",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ropu Tengah Balu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balisoan Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sasur Pantai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sahu Timur",
+          "kelurahans": [
+            {
+              "name": "Idam Gamlamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loce",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamomeng",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Taraudu Kusu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Awer",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aketola",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tibobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hoku Hoku Gam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamnyial",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Campaka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngaon",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamsungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Taba Campaka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Golago Kusuma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidodadi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Air Panas",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ibu",
+          "kelurahans": [
+            {
+              "name": "Togola Wayoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togola Sangir",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tahafo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kie Ici",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maritango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tongute Goin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akesibu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tongute Sungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tongute Ternate",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tobaol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gam Ici",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gam Lamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Naga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tongute Ternate Asal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kampung Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soana Masungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akeboso",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ibu Selatan",
+          "kelurahans": [
+            {
+              "name": "Tabobol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tosoa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Adu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nanas",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngawet",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamsungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bataka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talaga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tobelos",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamkonora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sarau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguaer",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngalo Ngalo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamsida",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tabaru",
+          "kelurahans": [
+            {
+              "name": "Podol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tengowango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togowo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Duono",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangaji Nyeku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguis",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todoke",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togoreba Sungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Borona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolisaor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pasalulu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togoreba Tua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tukuoko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soasangaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aru Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Loloda",
+          "kelurahans": [
+            {
+              "name": "Totala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolofuo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguis",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa-Sio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kedi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tasye",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laba Besar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laba Kecil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bakun",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bakun Pantai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Barataku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamkahe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pumadada",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bosala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jangailulu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tosomolo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kahatola",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upt. Trans Jano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Totala Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomodo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Linggua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bantoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aruku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bilote",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Halmahera Tengah",
+      "kecamatans": [
+        {
+          "name": "Weda",
+          "kelurahans": [
+            {
+              "name": "Nusliko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nurweda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fidi Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wedana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goeng",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Weda Selatan",
+          "kelurahans": [
+            {
+              "name": "Kluting Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wairoro Indah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tiloppe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sosowomo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sumber Sari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lembah Asri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Air Salobar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Weda Utara",
+          "kelurahans": [
+            {
+              "name": "Gemaf",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sagea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fritu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waleh",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Desa Persiapan Trans Sp I",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kiya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Weda Tengah",
+          "kelurahans": [
+            {
+              "name": "Kobe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sawai Itepo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelilef Waibulan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelilef Sawai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Woekop",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Woejerana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kulo Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Weda Timur",
+          "kelurahans": [
+            {
+              "name": "Messa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dotte",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kotalo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Desa Persiapan Trans Sp Ii",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Pulau Gebe",
+          "kelurahans": [
+            {
+              "name": "Umera",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sanafi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kacepi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kapaleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Umiyal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sonof Kacepo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Elfanun",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Patani",
+          "kelurahans": [
+            {
+              "name": "Yeisowo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wailegi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kipai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yondeliu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baka Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Patani Utara",
+          "kelurahans": [
+            {
+              "name": "Gemia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tepeleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bilifitu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tepeleo Batu Dua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pantura Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maliforo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Patani Barat",
+          "kelurahans": [
+            {
+              "name": "Bobane Indah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Banemo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobane Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Moreala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sibenpopo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Patani Timur",
+          "kelurahans": [
+            {
+              "name": "Peniti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Masure",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sakam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pallo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Damuli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nursifa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Kepulauan Sula",
+      "kecamatans": [
+        {
+          "name": "Sula Besi Barat",
+          "kelurahans": [
+            {
+              "name": "Wai Ina",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kabau Darat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kabau Pantai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nahi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Paratina",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sulabesi Selatan",
+          "kelurahans": [
+            {
+              "name": "Wai Gai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fuata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sekom",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wainib",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Tamua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sanana",
+          "kelurahans": [
+            {
+              "name": "Wailau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pastina",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Umaloya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Ipa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Hama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fogi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fatce",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Falahu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fagudu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mangon",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waibau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sula Besi Tengah",
+          "kelurahans": [
+            {
+              "name": "Bega",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fat-Iba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waiman",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soamole",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Boga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Manaf",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sulabesi Timur",
+          "kelurahans": [
+            {
+              "name": "Wailia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fatkauyon",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baleha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Goyofa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waisepa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Sanana Utara",
+          "kelurahans": [
+            {
+              "name": "Pohea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Malbufa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bajo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Man Gega",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wainin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fokalik",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Timur",
+          "kelurahans": [
+            {
+              "name": "Waitina",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kow",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai-Tamela",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Naflow",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Karamat Titdoy",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Tengah",
+          "kelurahans": [
+            {
+              "name": "Baru Akol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Capalulu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Orifola",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wailoba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mangoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waitulia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai U",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Paslal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Utara Timur",
+          "kelurahans": [
+            {
+              "name": "Kawata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pelita Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waisakai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waisum",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Barat",
+          "kelurahans": [
+            {
+              "name": "Pas Ipa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dofa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Leko Kadai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lekosula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pelita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Johor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelyaba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Utara",
+          "kelurahans": [
+            {
+              "name": "Falabisahaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Madapuhi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pastabulu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Modapia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Minaluli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saniahaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Madapuhi Trans",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mangoli Selatan",
+          "kelurahans": [
+            {
+              "name": "Auponhia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Kafia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kaporo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wailab",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Halmahera Selatan",
+      "kecamatans": [
+        {
+          "name": "Obi Selatan",
+          "kelurahans": [
+            {
+              "name": "Loleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soligi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayaloar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ocimaloleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gambaru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Obi",
+          "kelurahans": [
+            {
+              "name": "Anggai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sambiki",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikotamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laiwui",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buton",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akegula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kawasi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Air Mangga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Obi Barat",
+          "kelurahans": [
+            {
+              "name": "Manatahan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikohay",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Alam Kenanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Sangaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Alam Pelita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tapa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Obi Timur",
+          "kelurahans": [
+            {
+              "name": "Kelo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wooi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Obi Utara",
+          "kelurahans": [
+            {
+              "name": "Pasir Putih",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cap",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Madapolo Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Madapolo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Madapolo Timur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waringi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan",
+          "kelurahans": [
+            {
+              "name": "Tomori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Labuha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Amasing Kota",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Amasing Kali",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Indomut",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Belang Belang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sumae",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kaputusan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hidayat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marabose",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Amasing Kota Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Amasing Kota Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Awanggoa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Suma Tinggi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mandioli Selatan",
+          "kelurahans": [
+            {
+              "name": "Yoyok",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabalema",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jiko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bahu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Mandioli Utara",
+          "kelurahans": [
+            {
+              "name": "Waya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Indong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pelita Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akedabo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleongusu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Selatan",
+          "kelurahans": [
+            {
+              "name": "Gandasuli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kupal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sawadai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuakona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Panambuang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mandaong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tembal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kampung Makian",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Papaloang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Batang Lomang",
+          "kelurahans": [
+            {
+              "name": "Kampung Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Batutaga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Parapakanda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanjung Obit",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bajo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pasimbaos",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sawanakar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Timur",
+          "kelurahans": [
+            {
+              "name": "Babang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nyonyifi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sabatang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goro Goro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Timlonga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sali Kecil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayamiga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sayoang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kaireu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Timur Selatan",
+          "kelurahans": [
+            {
+              "name": "Tabangame",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayaua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabajaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Silang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Liaro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waya Kuba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pigaraja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Timur Tengah",
+          "kelurahans": [
+            {
+              "name": "Tawa Bacan Timur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Songa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bibinoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabapoma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tutupa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayatim",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Barat",
+          "kelurahans": [
+            {
+              "name": "Wiring Yoyok",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tawabi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nondang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Indari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kusubibi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kokotu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kotunang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kasiruta Barat",
+          "kelurahans": [
+            {
+              "name": "Kakupang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marikapal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bisori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Palamea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Arumamang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lata Lata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sengga Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Imbu Imbu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kasiruta Timur",
+          "kelurahans": [
+            {
+              "name": "Tawa Bacan Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maritosu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleo Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Koubalabala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleo Mekar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kasiruta Dalam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Bacan Barat Utara",
+          "kelurahans": [
+            {
+              "name": "Sidopo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorua Lolaro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nusa Babullah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jojame",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yaba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Geti Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Geti Lama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gilalang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kayoa",
+          "kelurahans": [
+            {
+              "name": "Ligua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kida",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelei",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talimau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tawabi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Guruapin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bajo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gunange",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Karamat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laigoma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gafi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Siko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dorolamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kayoa Barat",
+          "kelurahans": [
+            {
+              "name": "Bokimiake",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hatejawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Busua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fofao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kayoa Selatan",
+          "kelurahans": [
+            {
+              "name": "Sagawele",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Posi Posi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laluin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pasir Putih",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Orimakurunga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kayoa Utara",
+          "kelurahans": [
+            {
+              "name": "Ake Jailolo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gayap",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Laromabati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Modayama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngokomalako",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayasipang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Pulau Makian",
+          "kelurahans": [
+            {
+              "name": "Wailoa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gurua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dauri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ploili",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Samsuma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Matangtengin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kyowor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rabutdaio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waigitang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangapati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gitang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dalam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Walo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorup",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kota",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Makian Barat",
+          "kelurahans": [
+            {
+              "name": "Ombawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobawae",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Malapat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sebelei",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talapao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mateketen",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tegono",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Barat",
+          "kelurahans": [
+            {
+              "name": "Lemo Lemo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Papaceda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Oha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balitata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saketa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Koititi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabamasa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bumi Rahmat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Barat Selatan",
+          "kelurahans": [
+            {
+              "name": "Dowora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yamly",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gane Dalam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jibubu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Awis",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pasi Palele",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Barat Utara",
+          "kelurahans": [
+            {
+              "name": "Boso",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikolamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dolik",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Suka Damai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tokaka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nurjihat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Moloku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Samo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Samat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Posi Posi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gumira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Batulak",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kepulauan Joronga",
+          "kelurahans": [
+            {
+              "name": "Gonone",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pulau Gala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tawabi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kukupang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kurunga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yomen",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Liboba Hijrah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Timur",
+          "kelurahans": [
+            {
+              "name": "Wosi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saketa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukit Indah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rawa Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Suka Maju",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukit Raya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sumber Makmur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lalubi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maffa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Foya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tobaru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Foya Tobaru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waimili",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanjung Jere",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kebun Raja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kota Loow",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cinta Damai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Timur Tengah",
+          "kelurahans": [
+            {
+              "name": "Tabahidayah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Luim",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bisui",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelewi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tagea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Matuting",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Matuting Tanjung",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabahijrah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Gane Timur Selatan",
+          "kelurahans": [
+            {
+              "name": "Gane Luar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ranga Ranga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kuwo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sawat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gaimu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Halmahera Utara",
+      "kecamatans": [
+        {
+          "name": "Malifut",
+          "kelurahans": [
+            {
+              "name": "Tahane",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Matsa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngofakiaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Samsuma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngofagita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Peleri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Malapa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mailoa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngofabobawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tagono",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tafasoho",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talapao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sabale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balisosang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sosol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gayok",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wangeotak",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukit Tinggi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Terpadu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kao Teluk",
+          "kelurahans": [
+            {
+              "name": "Pasir Putih",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobaneigo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tetewang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelamo Kao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamsungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tiowor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabanoma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kuntum Mekar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Barumadehe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Makaeling",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toigo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelamo Kao Cibok",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kao",
+          "kelurahans": [
+            {
+              "name": "Kao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waringin Lelewi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soasangaji Dim Dim",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sasur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Popon",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Patang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Biang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waringin Lamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goruang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kusu Lovra",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sumber Agung",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kao Barat",
+          "kelurahans": [
+            {
+              "name": "Momoda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngoali",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gagaapok",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Makarti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toliwang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolabit",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguis",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangaji Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Hukum",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelesang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pitago",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soamaetek",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bailengit",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Parseba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toboulamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Torawat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Takimo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wonosari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Beringin Agung",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Margo Mulyo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kao Utara",
+          "kelurahans": [
+            {
+              "name": "Gamlaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Boulamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Daru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pediwang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wateto",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tunuo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gulo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Warudu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dowongi Maiti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo Selatan",
+          "kelurahans": [
+            {
+              "name": "Leleoto",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Paca",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tobe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kupa Kupa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toma Halu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Efi Efi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamhoku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talaga Paca",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lemah Ino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kupa Kupa Selatan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kakara B",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tioua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo Barat",
+          "kelurahans": [
+            {
+              "name": "Kusuri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sukamaju",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togoliua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Birinoa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wangongira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upt Togoliua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo Timur",
+          "kelurahans": [
+            {
+              "name": "Katana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gonga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Meti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mawea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todokuiha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yaro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo",
+          "kelurahans": [
+            {
+              "name": "Gamsungi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kumo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gura",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kakara A",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rawajaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gosoma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wari Ino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tagalaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo Tengah",
+          "kelurahans": [
+            {
+              "name": "Kaliupa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pitu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lina Ino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kalipitu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "W K O",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mahia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wosia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanjung Niara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tobelo Utara",
+          "kelurahans": [
+            {
+              "name": "Gorua Selatan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorua Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Popilo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Popilo Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kokota Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ruko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Luari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolonuo Selatan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolonuo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Galela",
+          "kelurahans": [
+            {
+              "name": "Mamuya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Sio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toweka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Barataku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Towara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Simau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Galela Selatan",
+          "kelurahans": [
+            {
+              "name": "Bale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Igobula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soakonora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togawa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togawa Besi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Seki",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Galela Barat",
+          "kelurahans": [
+            {
+              "name": "Samuda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soatobaru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Roko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dokulamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Duma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gotalamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Makete",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngidiho",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Galela Utara",
+          "kelurahans": [
+            {
+              "name": "Limau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lalonga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobi Singo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dodowo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salimuli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tutumaloleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togasa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saluta",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pelita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Beringin Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jere Tua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Loloda Utara",
+          "kelurahans": [
+            {
+              "name": "Apulea",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Asimiro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dotia",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngajam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dorume",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kailupa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gisik",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kapa Kapa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pocao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tate",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Posi Posi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Momojiu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Worimoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Podol",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Igo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Loloda Kepulauan",
+          "kelurahans": [
+            {
+              "name": "Tobo Tobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fitako",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dedeta",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dagasuli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikolamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tua Kara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dowonggila",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cera",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salube",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Halmahera Timur",
+      "kecamatans": [
+        {
+          "name": "Maba Selatan",
+          "kelurahans": [
+            {
+              "name": "Bicoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waci",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleolamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gotowasi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kasuba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Momole",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sowoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Kota Maba",
+          "kelurahans": [
+            {
+              "name": "Maba Sangaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Gimalaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wailukum",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Sangaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Laipoh",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tewil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Wasile Selatan",
+          "kelurahans": [
+            {
+              "name": "Nusa Ambu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pintatu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Binagara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nusa Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Minamin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waijoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saramaake",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wasile",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fayaul",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomares",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabanalou",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saolat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nanas",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sondo-Sondo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talaga Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ake Jawi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ino Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikomoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yawal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanure",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ekor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ekorino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukutio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Wasile",
+          "kelurahans": [
+            {
+              "name": "Subaim",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cemara Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bumi Restu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Batu Raja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mekar Sari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gulapapo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waisuba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Wasile Timur",
+          "kelurahans": [
+            {
+              "name": "Daka Ino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ake Daga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toboino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dodaga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tutuling Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Woka Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rawamangun",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sidomulyo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Wasile Tengah",
+          "kelurahans": [
+            {
+              "name": "Lolobata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hatetabako",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Puao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kakaraino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Foli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nyaolako",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bokimaake",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Silalayang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Wasile Utara",
+          "kelurahans": [
+            {
+              "name": "Iga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Labi Labi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tatam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marimoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bololo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hilaitetor",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dowongi Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Majiko Tongone",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Maba",
+          "kelurahans": [
+            {
+              "name": "Buli Asal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buli Karya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayafli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sailal",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Geltoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pekaulang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Teluk Buli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamesan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Baburino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Maba Tengah",
+          "kelurahans": [
+            {
+              "name": "Beringin Lamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bebsili",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayamli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Miaf",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maratana Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dorolamo Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bangul",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marasipno",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Babasaram",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yawanli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tatangapu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gaifoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Maba Utara",
+          "kelurahans": [
+            {
+              "name": "Sosolat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lolasita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dorosago",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wasileo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Patlian",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pumlanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jara Jara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upt Patlian Sp I",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upt Patlian Sp Ii",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lili",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doromoi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Patlean Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Pulau Morotai",
+      "kecamatans": [
+        {
+          "name": "Morotai Selatan",
+          "kelurahans": [
+            {
+              "name": "Juanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pandanga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Daruba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yayasan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kolorai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galo Galo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pilowo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Darame",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gotalamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Muhajirin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wawama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Totodoku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Joubela",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mandiri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dehegila",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Momojiu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sabatai Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sabatai Tua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Daeo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Falila",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Morodadi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nakamura",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sabala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Daeo Majiko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Morotai Timur",
+          "kelurahans": [
+            {
+              "name": "Sambiki",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sambiki Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangowo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rahmat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wewemo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Buho Buho",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lifao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamlamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangowo Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangowo Timur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doku Mira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gosoma Maluku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hino",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Seseli Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Morotai Selatan Barat",
+          "kelurahans": [
+            {
+              "name": "Waringin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aru Irian",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cocomare",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngele Ngele Kecil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Usbar Pantai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngele Ngele Besar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Raja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tiley",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayabula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cio Gerong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cio Dalam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Saminyamau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Posi Posi Rao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Leo Leo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aru Burung",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lou Madoro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tiley Pantai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cio Maloleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Morotai Jaya",
+          "kelurahans": [
+            {
+              "name": "Libano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hapo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Titigogoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bere Bere Kecil",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sopi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cendana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pangeo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Towara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cempaka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Podimor Padange",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sopi Majiko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loleo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorugo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Morotai Utara",
+          "kelurahans": [
+            {
+              "name": "Bido",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Yao",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tawakali",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sakita",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Leleo Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kenari",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Losuo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Korago",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanjung Saleh",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goa Hira",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gorua Selatan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kabupaten Pulau Taliabu",
+      "kecamatans": [
+        {
+          "name": "Taliabu Barat",
+          "kelurahans": [
+            {
+              "name": "Pancoran",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tallo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ratahaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wayo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bobong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maranti Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kilong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Karamat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Holbota",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kawalo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Woyo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lohobuba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Limbo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Taliabu Selatan",
+          "kelurahans": [
+            {
+              "name": "Nggoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bahu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bapenu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galebo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kilo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sumbong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nggaki",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Pencado",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maluli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tabona",
+          "kelurahans": [
+            {
+              "name": "Wolio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Habunuha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fayaunana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kataga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kabunu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Taliabu Timur Selatan",
+          "kelurahans": [
+            {
+              "name": "Sofan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kawadang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Losseng",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mantarara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Belo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Kadai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wai Kadai Sula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kamaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Waikoka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Taliabu Timur",
+          "kelurahans": [
+            {
+              "name": "Tubang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Parigi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Samuya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Taliabu Utara",
+          "kelurahans": [
+            {
+              "name": "Natang Kuning",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Padang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tikong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sahu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Air Bulan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Nunca",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Minton",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gela",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "London",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Air Kalimat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jorjoga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanjung Una",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mananga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wahe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mbono",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Lede",
+          "kelurahans": [
+            {
+              "name": "Langganu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balohang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tolong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todoli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Taliabu Barat Laut",
+          "kelurahans": [
+            {
+              "name": "Kasango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Beringin Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "One May",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Ternate",
+      "kecamatans": [
+        {
+          "name": "Pulau Ternate",
+          "kelurahans": [
+            {
+              "name": "Jambula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kastela",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Foramadiahi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Afe-Taduma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dorpedu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Moti",
+          "kelurahans": [
+            {
+              "name": "Figur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Takofi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tafaga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tadenas",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kota Moti",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tafamutu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Pulau Batang Dua",
+          "kelurahans": [
+            {
+              "name": "Pantai Sagu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tifure",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lelewi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mayau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bido",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Perum Bersatu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Pulau Hiri",
+          "kelurahans": [
+            {
+              "name": "Dorari Isa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tafraka",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togolobe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mado",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Faudu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomajiko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ternate Barat",
+          "kelurahans": [
+            {
+              "name": "Kulaba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tobololo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Togafo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sulamadaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Loto",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Takome",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ternate Selatan",
+          "kelurahans": [
+            {
+              "name": "Sasa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gambesi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fitu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kalumata",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kayu Merah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bastiong Talangame",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ubo-Ubo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mangga Dua",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toboko",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanah Tinggi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ngade",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bastiong Karance",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jati Perumnas",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mangga Dua Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanah Tinggi Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ternate Tengah",
+          "kelurahans": [
+            {
+              "name": "Maliaro",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kampung Pisang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Takoma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kota Baru",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Muhajirin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tanah Raja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Stadion",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Marikurubu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Moya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salahuddin",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Santiong",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kalumpang",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamalama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Makassar Timur",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Makassar Barat",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Ternate Utara",
+          "kelurahans": [
+            {
+              "name": "Soa Sio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Salero",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kasturian",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toboleu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dufa Dufa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tafure",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tabam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sango",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tarau",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sangaji Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akehuda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tubo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kota Tidore Kepulauan",
+      "kecamatans": [
+        {
+          "name": "Tidore Selatan",
+          "kelurahans": [
+            {
+              "name": "Marekofo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maregam",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tongowai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gurabati",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomalou",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguiha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Dokiri",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toloa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tidore Utara",
+          "kelurahans": [
+            {
+              "name": "Bobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Afa Afa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mareku",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ome",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fobaharu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maitara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gubu Kusuma",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sirongo Folaraha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Rum Balibunga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maitara Selatan",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maitara Tengah",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maitara Utara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tidore",
+          "kelurahans": [
+            {
+              "name": "Seli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soadara",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Topo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Soa Sio",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gamtufkange",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gura-Bunga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Indonesiana",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Topo Tiga",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tomagoba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Folarora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Goto",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tambula",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tuguwaji",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Tidore Timur",
+          "kelurahans": [
+            {
+              "name": "Dowora",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kalaodi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Mafututu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tosa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Cobodoe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Doyado",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Jikocobo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Oba",
+          "kelurahans": [
+            {
+              "name": "Kusu Sinopa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Payahe",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Toseho",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gita Raja",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Woda",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kosa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Koli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tului",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sigela Yef",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Todapa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talasi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Talagamori",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Upt Koli",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Oba Selatan",
+          "kelurahans": [
+            {
+              "name": "Sela Malofo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Maidi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Hager",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Wama",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lifofa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tagalaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Oba Utara",
+          "kelurahans": [
+            {
+              "name": "Somahode",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akekolano",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Oba",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Sofifi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Guraping",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Kaiyasa",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Garojou",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Ampera",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Bukit Durian",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Galala",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Balbar",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Gosale",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        },
+        {
+          "name": "Oba Tengah",
+          "kelurahans": [
+            {
+              "name": "Togeme",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Lola",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akelamo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akeguraci",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akesai",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aketobololo",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Akedotilou",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Aketubatu",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tadupi",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Tauno",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Beringin Jaya",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Fanaha",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            },
+            {
+              "name": "Siokona",
+              "lat": "1.570000",
+              "lng": "127.800000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
