@@ -1,0 +1,793 @@
+[
+  {
+    "name": "Aceh",
+    "kotas": [
+      {
+        "name": "Banda Aceh",
+        "kecamatans": [
+          {"name": "Baiturrahman", "kelurahans": [{"name": "Kampung Baru", "lat": "5.5483", "lng": "95.3238"}]},
+          {"name": "Kuta Alam", "kelurahans": [{"name": "Peunayong", "lat": "5.5551", "lng": "95.3147"}]},
+          {"name": "Meuraxa", "kelurahans": [{"name": "Ulee Lheue", "lat": "5.5640", "lng": "95.2878"}]}
+        ]
+      },
+      {
+        "name": "Lhokseumawe",
+        "kecamatans": [
+          {"name": "Banda Sakti", "kelurahans": [{"name": "Kota Lhokseumawe", "lat": "5.1814", "lng": "97.1508"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sumatera Utara",
+    "kotas": [
+      {
+        "name": "Medan",
+        "kecamatans": [
+          {"name": "Medan Kota", "kelurahans": [{"name": "Kesawan (Lapangan Merdeka)", "lat": "3.5896", "lng": "98.6739"}]},
+          {"name": "Medan Maimun", "kelurahans": [{"name": "Istana Maimun", "lat": "3.5753", "lng": "98.6837"}]},
+          {"name": "Medan Baru", "kelurahans": [{"name": "Darat", "lat": "3.5662", "lng": "98.6563"}]}
+        ]
+      },
+      {
+        "name": "Pematang Siantar",
+        "kecamatans": [
+          {"name": "Siantar Timur", "kelurahans": [{"name": "Siantar Timur", "lat": "2.9493", "lng": "99.0587"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sumatera Barat",
+    "kotas": [
+      {
+        "name": "Padang",
+        "kecamatans": [
+          {"name": "Padang Barat", "kelurahans": [{"name": "Kampung Jao (Pantai Padang)", "lat": "-0.9540", "lng": "100.3541"}]},
+          {"name": "Padang Utara", "kelurahans": [{"name": "Air Tawar Barat (UNAND)", "lat": "-0.9120", "lng": "100.3505"}]}
+        ]
+      },
+      {
+        "name": "Bukittinggi",
+        "kecamatans": [
+          {"name": "Guguk Panjang", "kelurahans": [{"name": "Jam Gadang", "lat": "-0.3051", "lng": "100.3690"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Riau",
+    "kotas": [
+      {
+        "name": "Pekanbaru",
+        "kecamatans": [
+          {"name": "Sukajadi", "kelurahans": [{"name": "Kampung Tengah", "lat": "0.5256", "lng": "101.4505"}]},
+          {"name": "Pekanbaru Kota", "kelurahans": [{"name": "Kota Pekanbaru", "lat": "0.5071", "lng": "101.4478"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jambi",
+    "kotas": [
+      {
+        "name": "Kota Jambi",
+        "kecamatans": [
+          {"name": "Pasar Jambi", "kelurahans": [{"name": "Pasar Jambi", "lat": "-1.6036", "lng": "103.6130"}]},
+          {"name": "Telanaipura", "kelurahans": [{"name": "Telanaipura", "lat": "-1.5899", "lng": "103.6116"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sumatera Selatan",
+    "kotas": [
+      {
+        "name": "Palembang",
+        "kecamatans": [
+          {"name": "Ilir Timur I", "kelurahans": [{"name": "Jembatan Ampera", "lat": "-2.9926", "lng": "104.7632"}]},
+          {"name": "Seberang Ulu I", "kelurahans": [{"name": "Seberang Ulu", "lat": "-3.0060", "lng": "104.7586"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bengkulu",
+    "kotas": [
+      {
+        "name": "Kota Bengkulu",
+        "kecamatans": [
+          {"name": "Ratu Samban", "kelurahans": [{"name": "Fort Marlborough", "lat": "-3.7879", "lng": "102.2578"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lampung",
+    "kotas": [
+      {
+        "name": "Bandar Lampung",
+        "kecamatans": [
+          {"name": "Teluk Betung Selatan", "kelurahans": [{"name": "Teluk Betung", "lat": "-5.4522", "lng": "105.2616"}]},
+          {"name": "Tanjung Karang Pusat", "kelurahans": [{"name": "Enggal", "lat": "-5.4271", "lng": "105.2622"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kepulauan Bangka Belitung",
+    "kotas": [
+      {
+        "name": "Pangkal Pinang",
+        "kecamatans": [
+          {"name": "Rangkui", "kelurahans": [{"name": "Kota Pangkal Pinang", "lat": "-2.1296", "lng": "106.1135"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kepulauan Riau",
+    "kotas": [
+      {
+        "name": "Batam",
+        "kecamatans": [
+          {"name": "Batam Kota", "kelurahans": [{"name": "Baloi (Mega Mall)", "lat": "1.0456", "lng": "104.0305"}]},
+          {"name": "Batu Ampar", "kelurahans": [{"name": "Batu Ampar", "lat": "1.0619", "lng": "104.0236"}]}
+        ]
+      },
+      {
+        "name": "Tanjung Pinang",
+        "kecamatans": [
+          {"name": "Tanjungpinang Kota", "kelurahans": [{"name": "Tanjung Pinang", "lat": "0.9190", "lng": "104.4604"}]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DKI Jakarta",
+    "kotas": [
+      {
+        "name": "Jakarta Pusat",
+        "kecamatans": [
+          {"name": "Gambir", "kelurahans": [
+            {"name": "Gambir (Monas)", "lat": "-6.175392", "lng": "106.827153"},
+            {"name": "Kebon Kelapa", "lat": "-6.1632", "lng": "106.8211"},
+            {"name": "Petojo Selatan", "lat": "-6.1724", "lng": "106.8142"},
+            {"name": "Petojo Utara", "lat": "-6.1666", "lng": "106.8150"},
+            {"name": "Duri Pulo", "lat": "-6.1620", "lng": "106.8310"}
+          ]},
+          {"name": "Tanah Abang", "kelurahans": [
+            {"name": "Bendungan Hilir (Benhil)", "lat": "-6.2004", "lng": "106.8122"},
+            {"name": "Kebon Melati (Tanah Abang)", "lat": "-6.1932", "lng": "106.8111"},
+            {"name": "Kampung Bali", "lat": "-6.1925", "lng": "106.8218"}
+          ]},
+          {"name": "Menteng", "kelurahans": [
+            {"name": "Menteng", "lat": "-6.1960", "lng": "106.8393"},
+            {"name": "Gondangdia", "lat": "-6.1889", "lng": "106.8363"},
+            {"name": "Cikini", "lat": "-6.1917", "lng": "106.8410"}
+          ]},
+          {"name": "Kemayoran", "kelurahans": [
+            {"name": "Gunung Sahari Selatan", "lat": "-6.1601", "lng": "106.8423"},
+            {"name": "Kemayoran", "lat": "-6.1624", "lng": "106.8524"},
+            {"name": "Serdang", "lat": "-6.1561", "lng": "106.8578"}
+          ]},
+          {"name": "Senen", "kelurahans": [
+            {"name": "Senen", "lat": "-6.1757", "lng": "106.8449"},
+            {"name": "Kramat", "lat": "-6.1821", "lng": "106.8461"},
+            {"name": "Paseban", "lat": "-6.1851", "lng": "106.8484"}
+          ]}
+        ]
+      },
+      {
+        "name": "Jakarta Selatan",
+        "kecamatans": [
+          {"name": "Kebayoran Baru", "kelurahans": [
+            {"name": "Selong", "lat": "-6.2367", "lng": "106.8005"},
+            {"name": "Melawai (Blok M)", "lat": "-6.2442", "lng": "106.8023"},
+            {"name": "Senayan (GBK)", "lat": "-6.2184", "lng": "106.8024"}
+          ]},
+          {"name": "Setiabudi", "kelurahans": [
+            {"name": "Kuningan (Mega Kuningan)", "lat": "-6.2306", "lng": "106.8273"},
+            {"name": "Setiabudi", "lat": "-6.2202", "lng": "106.8320"}
+          ]},
+          {"name": "Tebet", "kelurahans": [
+            {"name": "Tebet Barat", "lat": "-6.2287", "lng": "106.8568"},
+            {"name": "Tebet Timur", "lat": "-6.2312", "lng": "106.8604"}
+          ]},
+          {"name": "Pancoran", "kelurahans": [
+            {"name": "Pancoran", "lat": "-6.2499", "lng": "106.8442"}
+          ]},
+          {"name": "Cilandak", "kelurahans": [
+            {"name": "Cilandak Barat", "lat": "-6.2877", "lng": "106.7928"}
+          ]}
+        ]
+      },
+      {
+        "name": "Jakarta Barat",
+        "kecamatans": [
+          {"name": "Grogol Petamburan", "kelurahans": [
+            {"name": "Grogol (Central Park)", "lat": "-6.1768", "lng": "106.7896"}
+          ]},
+          {"name": "Taman Sari", "kelurahans": [
+            {"name": "Glodok (Kota Tua)", "lat": "-6.1483", "lng": "106.8139"}
+          ]},
+          {"name": "Palmerah", "kelurahans": [
+            {"name": "Palmerah", "lat": "-6.2053", "lng": "106.7970"}
+          ]}
+        ]
+      },
+      {
+        "name": "Jakarta Utara",
+        "kecamatans": [
+          {"name": "Penjaringan", "kelurahans": [
+            {"name": "Pluit (PIK)", "lat": "-6.1148", "lng": "106.7810"},
+            {"name": "Ancol (Dunia Fantasi)", "lat": "-6.1250", "lng": "106.8344"}
+          ]},
+          {"name": "Tanjung Priok", "kelurahans": [
+            {"name": "Tanjung Priok", "lat": "-6.1054", "lng": "106.8690"}
+          ]}
+        ]
+      },
+      {
+        "name": "Jakarta Timur",
+        "kecamatans": [
+          {"name": "Matraman", "kelurahans": [
+            {"name": "Kebon Manggis", "lat": "-6.2073", "lng": "106.8615"}
+          ]},
+          {"name": "Duren Sawit", "kelurahans": [
+            {"name": "Pondok Kelapa", "lat": "-6.2465", "lng": "106.9171"}
+          ]},
+          {"name": "Cakung", "kelurahans": [
+            {"name": "Pulogebang (Terminal)", "lat": "-6.1966", "lng": "106.9565"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jawa Barat",
+    "kotas": [
+      {
+        "name": "Bandung",
+        "kecamatans": [
+          {"name": "Bandung Wetan", "kelurahans": [
+            {"name": "Citarum (Gedung Sate)", "lat": "-6.902481", "lng": "107.618810"},
+            {"name": "Tamansari", "lat": "-6.8998", "lng": "107.6105"}
+          ]},
+          {"name": "Coblong", "kelurahans": [
+            {"name": "Dago (ITB)", "lat": "-6.8881", "lng": "107.6130"},
+            {"name": "Lebak Siliwangi", "lat": "-6.8849", "lng": "107.6088"}
+          ]},
+          {"name": "Sumur Bandung", "kelurahans": [
+            {"name": "Braga", "lat": "-6.9196", "lng": "107.6092"},
+            {"name": "Babakan Ciamis", "lat": "-6.9158", "lng": "107.6137"}
+          ]},
+          {"name": "Lengkong", "kelurahans": [
+            {"name": "Burangrang (Riau Walk)", "lat": "-6.9130", "lng": "107.6169"}
+          ]}
+        ]
+      },
+      {
+        "name": "Bogor",
+        "kecamatans": [
+          {"name": "Bogor Tengah", "kelurahans": [
+            {"name": "Babakan (Kebun Raya)", "lat": "-6.5894", "lng": "106.8061"},
+            {"name": "Sempur", "lat": "-6.5904", "lng": "106.7977"}
+          ]},
+          {"name": "Bogor Utara", "kelurahans": [
+            {"name": "Tegalega", "lat": "-6.5768", "lng": "106.8085"}
+          ]}
+        ]
+      },
+      {
+        "name": "Bekasi",
+        "kecamatans": [
+          {"name": "Bekasi Selatan", "kelurahans": [
+            {"name": "Jaka Mulya", "lat": "-6.2666", "lng": "106.9908"}
+          ]},
+          {"name": "Bekasi Timur", "kelurahans": [
+            {"name": "Margahayu", "lat": "-6.2441", "lng": "107.0131"}
+          ]}
+        ]
+      },
+      {
+        "name": "Depok",
+        "kecamatans": [
+          {"name": "Beji", "kelurahans": [
+            {"name": "Beji (UI Depok)", "lat": "-6.3607", "lng": "106.8251"}
+          ]},
+          {"name": "Pancoran Mas", "kelurahans": [
+            {"name": "Depok Jaya", "lat": "-6.3923", "lng": "106.8162"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jawa Tengah",
+    "kotas": [
+      {
+        "name": "Semarang",
+        "kecamatans": [
+          {"name": "Semarang Tengah", "kelurahans": [
+            {"name": "Simpang Lima", "lat": "-6.9837", "lng": "110.4203"},
+            {"name": "Kota Lama", "lat": "-6.9686", "lng": "110.4273"}
+          ]},
+          {"name": "Semarang Selatan", "kelurahans": [
+            {"name": "Pleburan (UNDIP)", "lat": "-6.9958", "lng": "110.4205"}
+          ]}
+        ]
+      },
+      {
+        "name": "Solo (Surakarta)",
+        "kecamatans": [
+          {"name": "Laweyan", "kelurahans": [
+            {"name": "Keraton Solo", "lat": "-7.5757", "lng": "110.8268"}
+          ]},
+          {"name": "Pasar Kliwon", "kelurahans": [
+            {"name": "Pasar Kliwon", "lat": "-7.5791", "lng": "110.8330"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DI Yogyakarta",
+    "kotas": [
+      {
+        "name": "Yogyakarta",
+        "kecamatans": [
+          {"name": "Gedongtengen", "kelurahans": [
+            {"name": "Sosromenduran (Malioboro)", "lat": "-7.797068", "lng": "110.370529"}
+          ]},
+          {"name": "Kraton", "kelurahans": [
+            {"name": "Kraton (Keraton Yogya)", "lat": "-7.8052", "lng": "110.3641"},
+            {"name": "Alun-Alun Kidul", "lat": "-7.8117", "lng": "110.3621"}
+          ]},
+          {"name": "Gondokusuman", "kelurahans": [
+            {"name": "Kotabaru", "lat": "-7.7841", "lng": "110.3794"},
+            {"name": "Terban (UGM)", "lat": "-7.7716", "lng": "110.3835"}
+          ]}
+        ]
+      },
+      {
+        "name": "Sleman",
+        "kecamatans": [
+          {"name": "Depok", "kelurahans": [
+            {"name": "Caturtunggal (Babarsari)", "lat": "-7.7674", "lng": "110.4119"}
+          ]},
+          {"name": "Kalasan", "kelurahans": [
+            {"name": "Candi Prambanan", "lat": "-7.7520", "lng": "110.4916"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jawa Timur",
+    "kotas": [
+      {
+        "name": "Surabaya",
+        "kecamatans": [
+          {"name": "Bubutan", "kelurahans": [
+            {"name": "Alun-Alun Contong (Tugu Pahlawan)", "lat": "-7.245846", "lng": "112.737828"}
+          ]},
+          {"name": "Genteng", "kelurahans": [
+            {"name": "Genteng (Tunjungan Plaza)", "lat": "-7.2610", "lng": "112.7414"}
+          ]},
+          {"name": "Gubeng", "kelurahans": [
+            {"name": "Airlangga (UNAIR)", "lat": "-7.2707", "lng": "112.7586"}
+          ]},
+          {"name": "Tegalsari", "kelurahans": [
+            {"name": "Tegalsari", "lat": "-7.2721", "lng": "112.7327"}
+          ]}
+        ]
+      },
+      {
+        "name": "Malang",
+        "kecamatans": [
+          {"name": "Klojen", "kelurahans": [
+            {"name": "Alun-Alun Malang", "lat": "-7.9835", "lng": "112.6304"},
+            {"name": "Kiduldalem", "lat": "-7.9789", "lng": "112.6316"}
+          ]}
+        ]
+      },
+      {
+        "name": "Sidoarjo",
+        "kecamatans": [
+          {"name": "Sidoarjo", "kelurahans": [
+            {"name": "Lemah Putro", "lat": "-7.4473", "lng": "112.7178"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Banten",
+    "kotas": [
+      {
+        "name": "Tangerang",
+        "kecamatans": [
+          {"name": "Tangerang", "kelurahans": [
+            {"name": "Tangerang Kota", "lat": "-6.1781", "lng": "106.6300"}
+          ]},
+          {"name": "Cipondoh", "kelurahans": [
+            {"name": "Cipondoh", "lat": "-6.2135", "lng": "106.6357"}
+          ]}
+        ]
+      },
+      {
+        "name": "Tangerang Selatan",
+        "kecamatans": [
+          {"name": "Serpong", "kelurahans": [
+            {"name": "BSD City", "lat": "-6.3019", "lng": "106.6547"}
+          ]},
+          {"name": "Pondok Aren", "kelurahans": [
+            {"name": "Bintaro Jaya", "lat": "-6.2762", "lng": "106.7318"}
+          ]}
+        ]
+      },
+      {
+        "name": "Serang",
+        "kecamatans": [
+          {"name": "Serang", "kelurahans": [
+            {"name": "Kota Serang", "lat": "-6.1203", "lng": "106.1502"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bali",
+    "kotas": [
+      {
+        "name": "Denpasar",
+        "kecamatans": [
+          {"name": "Denpasar Timur", "kelurahans": [
+            {"name": "Sumerta Kelod", "lat": "-8.670458", "lng": "115.212629"}
+          ]},
+          {"name": "Denpasar Selatan", "kelurahans": [
+            {"name": "Sanur", "lat": "-8.6926", "lng": "115.2597"},
+            {"name": "Serangan", "lat": "-8.7280", "lng": "115.2285"}
+          ]}
+        ]
+      },
+      {
+        "name": "Badung",
+        "kecamatans": [
+          {"name": "Kuta", "kelurahans": [
+            {"name": "Kuta Beach", "lat": "-8.7180", "lng": "115.1689"},
+            {"name": "Seminyak", "lat": "-8.6905", "lng": "115.1605"},
+            {"name": "Legian", "lat": "-8.7050", "lng": "115.1660"}
+          ]},
+          {"name": "Kuta Selatan", "kelurahans": [
+            {"name": "Nusa Dua", "lat": "-8.7900", "lng": "115.2316"},
+            {"name": "Jimbaran", "lat": "-8.7675", "lng": "115.1695"},
+            {"name": "Uluwatu", "lat": "-8.8293", "lng": "115.0850"}
+          ]}
+        ]
+      },
+      {
+        "name": "Gianyar",
+        "kecamatans": [
+          {"name": "Ubud", "kelurahans": [
+            {"name": "Ubud Center", "lat": "-8.5069", "lng": "115.2624"},
+            {"name": "Tegallalang (Rice Terrace)", "lat": "-8.4312", "lng": "115.2791"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nusa Tenggara Barat",
+    "kotas": [
+      {
+        "name": "Mataram",
+        "kecamatans": [
+          {"name": "Mataram", "kelurahans": [
+            {"name": "Kota Mataram", "lat": "-8.5833", "lng": "116.1163"}
+          ]}
+        ]
+      },
+      {
+        "name": "Lombok Tengah",
+        "kecamatans": [
+          {"name": "Pujut", "kelurahans": [
+            {"name": "Kuta Lombok", "lat": "-8.8984", "lng": "116.2894"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nusa Tenggara Timur",
+    "kotas": [
+      {
+        "name": "Kupang",
+        "kecamatans": [
+          {"name": "Kelapa Lima", "kelurahans": [
+            {"name": "Kupang Kota", "lat": "-10.1718", "lng": "123.6070"}
+          ]}
+        ]
+      },
+      {
+        "name": "Manggarai Barat",
+        "kecamatans": [
+          {"name": "Komodo", "kelurahans": [
+            {"name": "Labuan Bajo", "lat": "-8.4958", "lng": "119.8890"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalimantan Barat",
+    "kotas": [
+      {
+        "name": "Pontianak",
+        "kecamatans": [
+          {"name": "Pontianak Selatan", "kelurahans": [
+            {"name": "Tugu Khatulistiwa", "lat": "0.0000", "lng": "109.3222"}
+          ]},
+          {"name": "Pontianak Kota", "kelurahans": [
+            {"name": "Kota Pontianak", "lat": "-0.0225", "lng": "109.3382"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalimantan Tengah",
+    "kotas": [
+      {
+        "name": "Palangkaraya",
+        "kecamatans": [
+          {"name": "Pahandut", "kelurahans": [
+            {"name": "Kota Palangkaraya", "lat": "-2.2161", "lng": "113.9108"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalimantan Selatan",
+    "kotas": [
+      {
+        "name": "Banjarmasin",
+        "kecamatans": [
+          {"name": "Banjarmasin Tengah", "kelurahans": [
+            {"name": "Pasar Lama", "lat": "-3.3195", "lng": "114.5893"}
+          ]},
+          {"name": "Banjarmasin Utara", "kelurahans": [
+            {"name": "Sungai Jingah", "lat": "-3.2983", "lng": "114.5984"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalimantan Timur",
+    "kotas": [
+      {
+        "name": "Balikpapan",
+        "kecamatans": [
+          {"name": "Balikpapan Selatan", "kelurahans": [
+            {"name": "Klandasan (Pantai Kemala)", "lat": "-1.2659", "lng": "116.8298"}
+          ]}
+        ]
+      },
+      {
+        "name": "Samarinda",
+        "kecamatans": [
+          {"name": "Samarinda Ulu", "kelurahans": [
+            {"name": "Kota Samarinda", "lat": "-0.4953", "lng": "117.1511"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalimantan Utara",
+    "kotas": [
+      {
+        "name": "Tarakan",
+        "kecamatans": [
+          {"name": "Tarakan Tengah", "kelurahans": [
+            {"name": "Kota Tarakan", "lat": "3.3002", "lng": "117.6318"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sulawesi Utara",
+    "kotas": [
+      {
+        "name": "Manado",
+        "kecamatans": [
+          {"name": "Wenang", "kelurahans": [
+            {"name": "Wenang (Mega Mall Manado)", "lat": "1.4905", "lng": "124.8421"}
+          ]},
+          {"name": "Sario", "kelurahans": [
+            {"name": "Sario Tumpaan", "lat": "1.4732", "lng": "124.8421"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sulawesi Tengah",
+    "kotas": [
+      {
+        "name": "Palu",
+        "kecamatans": [
+          {"name": "Palu Barat", "kelurahans": [
+            {"name": "Kota Palu", "lat": "-0.8917", "lng": "119.8707"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sulawesi Selatan",
+    "kotas": [
+      {
+        "name": "Makassar",
+        "kecamatans": [
+          {"name": "Ujung Pandang", "kelurahans": [
+            {"name": "Losari (Pantai Losari)", "lat": "-5.1428", "lng": "119.4108"}
+          ]},
+          {"name": "Panakkukang", "kelurahans": [
+            {"name": "Panakkukang (Trans Studio)", "lat": "-5.1562", "lng": "119.4366"}
+          ]},
+          {"name": "Tamalate", "kelurahans": [
+            {"name": "Jongaya", "lat": "-5.1685", "lng": "119.4121"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sulawesi Tenggara",
+    "kotas": [
+      {
+        "name": "Kendari",
+        "kecamatans": [
+          {"name": "Kendari Barat", "kelurahans": [
+            {"name": "Kota Kendari", "lat": "-3.9714", "lng": "122.5128"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gorontalo",
+    "kotas": [
+      {
+        "name": "Kota Gorontalo",
+        "kecamatans": [
+          {"name": "Kota Tengah", "kelurahans": [
+            {"name": "Kota Gorontalo", "lat": "0.5409", "lng": "123.0594"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sulawesi Barat",
+    "kotas": [
+      {
+        "name": "Mamuju",
+        "kecamatans": [
+          {"name": "Mamuju", "kelurahans": [
+            {"name": "Kota Mamuju", "lat": "-2.6749", "lng": "118.8886"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maluku",
+    "kotas": [
+      {
+        "name": "Ambon",
+        "kecamatans": [
+          {"name": "Sirimau", "kelurahans": [
+            {"name": "Kota Ambon", "lat": "-3.6954", "lng": "128.1783"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maluku Utara",
+    "kotas": [
+      {
+        "name": "Ternate",
+        "kecamatans": [
+          {"name": "Ternate Tengah", "kelurahans": [
+            {"name": "Kota Ternate (Benteng Oranje)", "lat": "0.7893", "lng": "127.3819"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua",
+    "kotas": [
+      {
+        "name": "Jayapura",
+        "kecamatans": [
+          {"name": "Jayapura Utara", "kelurahans": [
+            {"name": "Kota Jayapura", "lat": "-2.5333", "lng": "140.7167"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Barat",
+    "kotas": [
+      {
+        "name": "Manokwari",
+        "kecamatans": [
+          {"name": "Manokwari Barat", "kelurahans": [
+            {"name": "Kota Manokwari", "lat": "-0.8612", "lng": "134.0820"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Selatan",
+    "kotas": [
+      {
+        "name": "Merauke",
+        "kecamatans": [
+          {"name": "Merauke", "kelurahans": [
+            {"name": "Kota Merauke", "lat": "-8.4937", "lng": "140.3971"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Tengah",
+    "kotas": [
+      {
+        "name": "Nabire",
+        "kecamatans": [
+          {"name": "Nabire", "kelurahans": [
+            {"name": "Kota Nabire", "lat": "-3.3639", "lng": "135.4929"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Pegunungan",
+    "kotas": [
+      {
+        "name": "Wamena",
+        "kecamatans": [
+          {"name": "Wamena", "kelurahans": [
+            {"name": "Kota Wamena", "lat": "-4.0995", "lng": "138.9466"}
+          ]}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Barat Daya",
+    "kotas": [
+      {
+        "name": "Sorong",
+        "kecamatans": [
+          {"name": "Sorong", "kelurahans": [
+            {"name": "Kota Sorong", "lat": "-0.8660", "lng": "131.2555"}
+          ]}
+        ]
+      }
+    ]
+  }
+]
